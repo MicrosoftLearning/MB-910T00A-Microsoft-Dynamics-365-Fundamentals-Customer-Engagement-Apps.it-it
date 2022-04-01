@@ -1,24 +1,29 @@
 ---
 lab:
-    title: 'Lab 2.1: Creare e gestire un lead in Dynamics 365 Sales'
-    module: 'Modulo 2.: Concetti fondamentali su Dynamics 365 Sales'
+  title: 'Lab 2.1: Creare e gestire un lead in Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: 7280228a05263156d3fa56a57f4e269114347d2e
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909074"
 ---
-
-Modulo 2: Concetti fondamentali su Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Modulo 2: Concetti fondamentali su Dynamics 365 Sales
 ========================
 
-## Lab pratico 2.1. Creare e gestire un lead in Dynamics 365 Sales
+## <a name="practice-lab-21---create-and-manage-a-lead-in-dynamics-365-sales"></a>Lab pratico 2.1. Creare e gestire un lead in Dynamics 365 Sales
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Durante questo esercizio verrà acquisito un lead di vendita per Suzanne Burke. Di recente ha contattato l'organizzazione ed è interessata ad alcuni dei prodotti e servizi offerti. Non solo verrà acquisito il lead nel sistema, ma si useranno gli strumenti disponibili in Dynamics 365 Sales per sottoporre il lead al processo di qualificazione.
 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 15 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 1. Se non è già aperta, aprire l'applicazione **Hub delle vendite di Dynamics 365**. 
 
@@ -28,39 +33,39 @@ Durante questo esercizio verrà acquisito un lead di vendita per Suzanne Burke. 
 
 4. Completare il nuovo record del lead come segue:
 
-	- **Argomento:** Ricerca di nuove attrezzature - Proprie iniziali
+    - **Argomento:** Ricerca di nuove attrezzature - Proprie iniziali
 
-	- **Nome:** Suzanne
+    - **Nome:** Suzanne
 
-	- **Cognome:** Burke
+    - **Cognome:** Burke
 
-	- **Posizione:** CFO
+    - **Posizione:** CFO
 
-	- **Telefono ufficio:** 888 555-8715
+    - **Telefono ufficio:** 888 555-8715
 
-	- **E-mail:** Suzanne@contososample.com
+    - **Posta elettronica:** Suzanne@contososample.com
 
-	- **Società:** Contoso - Washington
+    - **Società:** Contoso - Washington
 
-	- **Via 1:** 1989 Smith Ave
+    - **Indirizzo 1:** 1989 Smith Ave
 
-	- **Città:** Seattle
+    - **Città:** Seattle
 
-	- **Stato:** WA
+    - **Stato/Provincia:** WA
 
-	- **CAP:** 98001 
+    - **CAP:** 98001 
 
 5. Selezionare il pulsante **Salva** sulla barra dei comandi per salvare il nuovo lead e lasciarlo aperto.
 
 6. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Fare clic sulla **fase di qualificazione** per selezionarla. Completare la fase come segue:
 
-	- **Intervallo di tempo acquisti:** Trimestre corrente
+    - **Intervallo di tempo acquisti:** Trimestre corrente
 
-	- **Budget stimato:** 25000 
+    - **Budget stimato:** 25000 
 
-	- **Processo di acquisto:** Singolo
+    - **Processo di acquisto:** Singolo
 
-	- **Identifica decisore:** Completato
+    - **Identifica decisore:** Completato
 
 7. Passare alla **sequenza temporale del record** al centro dello schermo e fare clic sull'**icona del segno più** per aggiungere un nuovo impegno. 
 

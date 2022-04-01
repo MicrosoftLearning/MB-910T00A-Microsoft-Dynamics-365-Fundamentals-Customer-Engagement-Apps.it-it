@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 5.2: Gestire un’opportunità basata su progetto'
-    module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'
+  title: "Lab 5.2: Gestire un'opportunità basata su progetto"
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 8d6402de96013463e0f122c4bb9dc15f35994787
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908821"
 ---
-
-Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modulo 5. Concetti fondamentali su Dynamics 365 Project Operations
 ========================
 
-## Lab pratico 5.2 - Gestire un'opportunità basata su progetto
+## <a name="practice-lab-52---manage-a-project-based-opportunity"></a>Lab pratico 5.2 - Gestire un'opportunità basata su progetto
 
-## Scenario del lab
+## <a name="lab-scenario"></a>Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
 
 La società ABC utilizza le applicazioni Dynamics 365 per interagire con tutti i propri clienti in diverse aree dell'organizzazione, dalle vendite all'assistenza. 
 
-**Vendite e marketing**
+**Analisi di vendite e marketing**
 
 La società ABC si rivolge direttamente ai propri clienti residenziali attraverso campagne di marketing mirate. Il targeting dei clienti viene eseguito in base alla città e ad altri fattori. I materiali di marketing vengono inviati tramite e-mail e, in base all'interazione con l'e-mail, i clienti vengono guidati di conseguenza. 
 
@@ -23,24 +28,24 @@ Mentre alcuni dei prodotti più piccoli sono venduti tramite rivenditori, la mag
 
 Internamente, l'azienda si concentra su due aree principali: 
 
-- **Clienti residenziali.** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
+- **Clienti residenziali:** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
 
-- **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
+- **Clienti aziendali:** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
 È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti.  
 
-**Installazione del sistema.**
+**Installazione del sistema:**
 
 Il processo di installazione per le apparecchiature di sicurezza acquistate varia in base al tipo di cliente a cui è stata effettuata la vendita. 
 
-- **Clienti residenziali.** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
+- **Clienti residenziali:** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
 
-- **Clienti aziendali.** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
+- **Clienti aziendali:** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
 
-**Assistenza e supporto.**
+**Servizio e supporto:**
 
 Dopo aver installato i sistemi, la società ABC fornisce supporto post-vendita. Se un cliente ha un problema, può contattare l'assistenza clienti. Un agente tenterà di collaborare con il cliente in remoto per risolvere il problema. Se non è possibile risolvere il problema in remoto, l'agente di supporto può riassegnare il problema a un ordine di lavoro che verrà pianificato ed elaborato da un tecnico sul campo qualificato. 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 I venditori aziendali della società ABC concentrano la loro attenzione sui clienti che hanno bisogno di soluzioni di sicurezza aziendali più specializzate e personalizzate. Per questo motivo, le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. I cicli di vendita aziendali della società ABC possono durare diversi mesi e richiedere l'interazione di più componenti per l'esecuzione. 
 
@@ -52,15 +57,15 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 - Qualificare e convertire un lead in un'opportunità di progetto.
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 20 minuti
   
-## Esercizio 1. Gestire un'opportunità basata su progetto 
+## <a name="exercise-1-manage-a-project-based-opportunity"></a>Esercizio 1: Gestire un'opportunità basata su progetto 
 
 Dopo aver creato un'opportunità di progetto partendo da un lead basato su un progetto, ora si userà l'opportunità per definire i dettagli generali relativi al progetto. Si definiranno pertanto i prodotti e gli elementi di lavoro, oltre alle stime relative alle vendite. 
 
-### Attività 1. Gestire un'opportunità di vendita 
+### <a name="task-1-manage-a-sales-opportunity"></a>Attività 1: Gestire un'opportunità di vendita 
 
 1. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Opportunità**. 
 
@@ -70,9 +75,9 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 4. Completare come segue:
 
-	- **Data chiusura prevista:** Domani
+    - **Data chiusura prevista:** Domani
 
-	- **Ricavi previsti:** 250.000,00
+    - **Ricavi previsti:** 250.000,00
 
 5. Nel flusso del processo aziendale Lead - opportunità selezionare la fase **Sviluppa**. Si noti che è necessario identificare le parti interessate e i concorrenti.
 
@@ -86,9 +91,9 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 10. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
-11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15**.**  
+11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15 **.**  
 
-12. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"**.
+12. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"** .
 
 13. Selezionare il pulsante **Salva e chiudi**.
 
@@ -106,29 +111,29 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 20. Dalla griglia secondaria Righe basate su progetto selezionare il pulsante Aggiungi nuova riga opportunità. Configurare la nuova voce opportunità come segue:
 
-	- **Tipo di prodotto:** Servizio basato sul progetto
+    - **Tipo di prodotto:** Servizio basato sul progetto
 
-	- **Opportunità:** Implementazione della sicurezza globale completa - Proprie iniziali
+    - **Opportunità:** Implementazione della sicurezza globale completa - Proprie iniziali
 
-	- **Nome:** Sviluppo del sistema
+    - **Nome:** Sviluppo del sistema
 
-	- **Budget cliente:** 25.000
+    - **Budget cliente:** 25.000
 
-	- **Metodo di fatturazione:** Prezzo fisso
+    - **Metodo di fatturazione:** Prezzo fisso
 
 21. Selezionare **Salva e chiudi**
 
 22. Nella griglia secondaria **Righe basate su progetto** selezionare il pulsante **Aggiungi nuova riga opportunità** per aggiungere un'altra voce.   
 ‎Configurare la nuova voce opportunità come segue:
 
-	- **Tipo di prodotto:** Servizio basato sul progetto
+    - **Tipo di prodotto:** Servizio basato sul progetto
 
-	- **Opportunità:** Implementazione della sicurezza globale completa - Proprie iniziali
+    - **Opportunità:** Implementazione della sicurezza globale completa - Proprie iniziali
 
-	- **Nome:** Implementazione del sistema 
+    - **Nome:** Implementazione del sistema 
 
-	- **Budget cliente:** 100000 
+    - **Budget cliente:** 100000 
 
-	- **Metodo di fatturazione:** Tempistica e materiali
+    - **Metodo di fatturazione:** Tempistica e materiali
 
 23. Selezionare **Salva e chiudi**

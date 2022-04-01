@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 5.1: Creare un lead basato su progetto'
-    module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'
+  title: 'Lab 5.1: Creare un lead basato su progetto'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: b5056adaef7064be8a62dcd85c2b1e0fb81b986a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908954"
 ---
-
-Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modulo 5. Concetti fondamentali su Dynamics 365 Project Operations
 ========================
 
-## Lab pratico 5.1. Creare un lead basato su progetto
+## <a name="practice-lab-51-create-a-project-based-lead"></a>Lab pratico 5.1. Creare un lead basato su progetto
 
-## Scenario del lab
+## <a name="lab-scenario"></a>Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
 
 La società ABC utilizza le applicazioni Dynamics 365 per interagire con tutti i propri clienti in diverse aree dell'organizzazione, dalle vendite all'assistenza. 
 
-**Vendite e marketing**
+**Analisi di vendite e marketing**
 
 La società ABC si rivolge direttamente ai propri clienti residenziali attraverso campagne di marketing mirate. Il targeting dei clienti viene eseguito in base alla città e ad altri fattori. I materiali di marketing vengono inviati tramite e-mail e, in base all'interazione con l'e-mail, i clienti vengono guidati di conseguenza. 
 
@@ -23,24 +28,24 @@ Mentre alcuni dei prodotti più piccoli sono venduti tramite rivenditori, la mag
 
 Internamente, l'azienda si concentra su due aree principali: 
 
-- **Clienti residenziali.** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
+- **Clienti residenziali:** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
 
-- **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
+- **Clienti aziendali:** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
 È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti. 
 
-**Installazione del sistema.**
+**Installazione del sistema:**
 
 Il processo di installazione per le apparecchiature di sicurezza acquistate varia in base al tipo di cliente a cui è stata effettuata la vendita. 
 
-- **Clienti residenziali.** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
+- **Clienti residenziali:** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
 
-- **Clienti aziendali.** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
+- **Clienti aziendali:** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
 
-**Assistenza e supporto.**
+**Servizio e supporto:**
 
 Dopo aver installato i sistemi, la società ABC fornisce supporto post-vendita. Se un cliente ha un problema, può contattare l'assistenza clienti. Un agente tenterà di collaborare con il cliente in remoto per risolvere il problema. Se non è possibile risolvere il problema in remoto, l'agente di supporto può riassegnare il problema a un ordine di lavoro che verrà pianificato ed elaborato da un tecnico sul campo qualificato. 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 I venditori aziendali della società ABC concentrano la loro attenzione sui clienti che hanno bisogno di soluzioni di sicurezza aziendali più specializzate e personalizzate. Per questo motivo, le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. I cicli di vendita aziendali della società ABC possono durare diversi mesi e richiedere l'interazione di più componenti per l'esecuzione. 
 
@@ -52,17 +57,17 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 - Immettere un lead di progetto in Dynamics 365 Sales
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 10 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
-## Esercizio 1. Creare un lead basato su progetto
+## <a name="exercise-1-create-a-project-based-lead"></a>Esercizio 1: Creare un lead basato su progetto
 
-### Attività 1. Creare un nuovo lead
+### <a name="task-1-create-a-new-lead"></a>Attività 1: Creare un nuovo lead
 
-1. Se necessario, aprire una scheda del browser con modalità InPrivate e visitare la pagina [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Se necessario, aprire un browser InPrivate e passare a [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
 2. Quando richiesto, accedere con le credenziali utente fornite dall'istruttore. 
 
@@ -70,9 +75,9 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 4. Se Project Service non è presente, visitare trials.dynamics.com e installare la versione di valutazione di Project Service. 
 
-	- E-mail ufficio: e-mail del tenant. 
+    - E-mail ufficio: e-mail del tenant. 
 
-	- Numero di telefono: telefono cellulare
+    - Numero di telefono: telefono cellulare
 
 5. Usando la barra di spostamento sul lato sinistro della schermata, selezionare l'area **Vendite**. 
 
@@ -86,39 +91,39 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 10. Completare il nuovo record del lead come segue:
 
-	- **Argomento:** implementazione globale completa - Proprie iniziali
+    - **Argomento:** implementazione globale completa - Proprie iniziali
 
-	- **Tipo:** basato su lavoro
+    - **Tipo:** basato su lavoro
 
-	- **Nome:** Jean
+    - **Nome:** Jean
 
-	- **Cognome:** Anderson - Proprie iniziali
+    - **Cognome:** Anderson - Proprie iniziali
 
-	- **Telefono ufficio:** 888 555-8855
+    - **Telefono ufficio:** 888 555-8855
 
-	- **Email:** jean@sample.com
+    - **Posta elettronica:** jean@sample.com
 
-	- **Società:** Consolidated Sample - Proprie iniziali
+    - **Società:** Consolidated Sample - Proprie iniziali
 
-	- **Via 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
+    - **Indirizzo 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
 
-	- **Città:** Seattle
+    - **Città:** Seattle
 
-	- **Stato:** WA
+    - **Stato/Provincia:** WA
 
-	- **CAP:** 98001 
+    - **CAP:** 98001 
 
 11. Selezionare il pulsante **Salva** sulla barra dei comandi per salvare il nuovo lead e lasciarlo aperto.
 
 12. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Selezionare la **fase di qualificazione**. Completare la fase come segue:
 
-	- **Intervallo di tempo acquisti:** Trimestre corrente
+    - **Intervallo di tempo acquisti:** Trimestre corrente
 
-	- **Budget stimato:** 25000  
+    - **Budget stimato:** 25000  
 
-	- **Processo di acquisto:** Comitato
+    - **Processo di acquisto:** Comitato
 
-	- **Identifica decisore:** Completato
+    - **Identifica decisore:** Completato
 
 13. Selezionare la **X** nella finestra della fase per chiuderla. 
 
@@ -128,13 +133,13 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 16. Nella schermata Creazione rapida: Telefonata completare la telefonata come segue:
 
-	- **Oggetto:** Chiamata di qualificazione iniziale - Proprie iniziali  
+    - **Oggetto:** Chiamata di qualificazione iniziale - Proprie iniziali  
 
-	- **Numero di telefono:** 888 555-8855
+    - **Numero di telefono:** 888 555-8855
 
-	- **Direzione:** In uscita
+    - **Direzione:** In uscita
 
-	- **Descrizione.** Conversazione iniziale con Jean per determinare la qualificazione iniziale. 
+    - **Descrizione:** Conversazione iniziale con Jean per determinare la qualificazione iniziale. 
 
 17. Selezionare il pulsante **Salva e chiudi**.
 
@@ -144,7 +149,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
  
 
-### Attività 2. Qualificare il lead e convertirlo in opportunità per qualificarlo ulteriormente
+### <a name="task-2-qualify-the-lead-and-convert-to-opportunity-for-further-qualification"></a>Attività 2: Qualificare il lead e convertirlo in opportunità per qualificarlo ulteriormente
 
 1. Sulla **barra dei comandi** selezionare il pulsante **Qualifica**. 
 

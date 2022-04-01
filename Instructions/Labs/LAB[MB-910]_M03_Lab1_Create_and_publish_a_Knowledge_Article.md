@@ -1,19 +1,24 @@
 ---
 lab:
-    title: 'Lab 3.1: Creare e pubblicare un articolo della Knowlege Base in Dynamics 365 Customer Service'
-    module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'
+  title: 'Lab 3.1: Creare e pubblicare un articolo della Knowledge Base in Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909094"
 ---
-
-Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 ========================
 
-## Lab pratico 3.1. Creare e pubblicare un articolo della Knowledge Base in Dynamics 365 Customer Service
+## <a name="practice-lab-31---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Lab pratico 3.1. Creare e pubblicare un articolo della Knowledge Base in Dynamics 365 Customer Service
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 15 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 1. Se non è già aperta, aprire l'applicazione **Hub del servizio clienti di Dynamics 365**. 
 
@@ -33,27 +38,27 @@ Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 
 8. Completare l'articolo come segue:
 
-	- **Titolo.** Articolo danneggiato all'arrivo - Proprie iniziali
+    - **Titolo:** Articolo danneggiato all'arrivo - Proprie iniziali
 
-	- **Parole chiave.** Articolo danneggiato, Rotto, Reso
+    - **Parole chiave:** Articolo danneggiato, Rotto, Reso
 
-	- **Descrizione.** Consente di risolvere i problemi quando un articolo arriva danneggiato. 
+    - **Descrizione:** Consente di risolvere i problemi quando un articolo arriva danneggiato. 
 
 9. Immettere il testo seguente nel casella di testo della finestra di progettazione del contenuto.   
 ‎  
-‎	Articolo arrivato danneggiato
+‎   Articolo arrivato danneggiato
 
-	Quando un articolo arriva danneggiato, eseguire queste operazioni:
+    Quando un articolo arriva danneggiato, eseguire queste operazioni:
 
-	1. Aprire il portale Web
+    1. Aprire il portale Web
 
-	2. Individuare il record dell'ordine
+    2. Individuare il record dell'ordine
 
-	3. Selezionare l'articolo reso
+    3. Selezionare l'articolo reso
 
-	4. Selezionare il motivo del danno
+    4. Selezionare il motivo del danno
 
-	5. Selezionare Stampa
+    5. Selezionare Stampa
 
 Dopo che avremo ricevuto l'articolo reso/danneggiato, l'importo vi verrà nuovamente accreditato sul conto.
 
@@ -99,16 +104,16 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 28. Verificare che siano selezionate le opzioni seguenti:
 
-	- **Pubblica:** Ora
+    - **Pubblica:** Ora
 
-	- **Stato pubblicazione:** Pubblicato
+    - **Stato pubblicazione:** Pubblicato
 
-	- **Data scadenza:** Un anno da oggi alle 12:00
+    - **Data di scadenza:** Un anno da oggi alle 12:00
 
-	- **Stato scadenza:** Scaduto
+    - **Stato scadenza:** Expired
 
-	- **Stato scadenza:** Scaduto
+    - **Stato scadenza:** Expired
 
-	- **Publish Approved translations:** (Pubblica traduzioni approvate) No
+    - **Pubblica le traduzioni approvate:** Non
 
 

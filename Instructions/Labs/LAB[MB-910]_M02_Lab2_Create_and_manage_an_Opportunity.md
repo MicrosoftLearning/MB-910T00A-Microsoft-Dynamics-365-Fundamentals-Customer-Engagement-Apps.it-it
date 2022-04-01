@@ -1,26 +1,31 @@
 ---
 lab:
-    title: 'Lab 2.2: Creare e gestire un’opportunità in Dynamics 365 Sales'
-    module: 'Modulo 2: Concetti fondamentali su Dynamics 365 Sales'
+  title: "Lab 2.2: Creare e gestire un'opportunità in Dynamics 365 Sales"
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: c37f7dd95495b7c8ecb08af925acba05bded6b2b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909091"
 ---
-
-Modulo 2: Concetti fondamentali su Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Modulo 2: Concetti fondamentali su Dynamics 365 Sales
 ========================
 
-## Lab pratico 2.2. Creare e gestire un'opportunità in Dynamics 365 Sales 
+## <a name="practice-lab-22---create-and-manage-an-opportunity-in-dynamics-365-sales"></a>Lab pratico 2.2. Creare e gestire un'opportunità in Dynamics 365 Sales 
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Durante questo esercizio verrà acquisita manualmente un'opportunità di vendita per un cliente esistente di nome Jim Glynn. Lavora per un'azienda denominata Adventure Works. Non solo verrà acquisita l'opportunità nel sistema, ma si useranno gli strumenti disponibili in Dynamics 365 Sales per elaborare e chiudere l'opportunità.
 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 25 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
-In questo esercizio verrà illustrato come accedere alle diverse applicazioni Customer Engagement di Dynamics 365 usando la schermata Home di Dynamics 365. 
+In questo esercizio verrà illustrato come accedere alle diverse applicazioni di Dynamics 365 Customer Engagement usando la schermata Home di Dynamics 365. 
 
 1. Se non è già aperta, aprire l'applicazione **Hub delle vendite di Dynamics 365**. 
 
@@ -30,25 +35,25 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 4. Completare le informazioni sull'opportunità come segue:
 
-	- **Argomento:** Vogliono aggiornare le attrezzature esistenti - Proprie iniziali
+    - **Argomento:** Vogliono aggiornare le attrezzature esistenti - Proprie iniziali
 
-	- **Contatto:** Jay Klein
+    - **Contattare:** Jay Klein
 
-	- **Account:** Northwind Traders
+    - **Account:** Northwind Traders
 
-	- **Intervallo di tempo acquisti:** Trimestre corrente
+    - **Intervallo di tempo acquisti:** Trimestre corrente
 
-	- **Importo budget:** 50.000
+    - **Importo budget:** 50.000
 
-	- **Processo di acquisto:** Singolo
+    - **Processo di acquisto:** Singolo
 
 5. Nell'intestazione **Nuova opportunità** nella parte superiore del record selezionare la freccia verso il basso accanto al campo Proprietario. 
 
 6. Completare come segue:
 
-	- **Data chiusura prevista:** Two days from today (Due giorni da oggi)
+    - **Data chiusura prevista:** Two days from today (Due giorni da oggi)
 
-	- **Ricavi previsti:** 50.000
+    - **Ricavi previsti:** 50.000
 
 7. Sulla **barra dei comandi** in alto selezionare il pulsante **Salva e chiudi**. 
 
@@ -60,9 +65,9 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 11. Completare come segue:
 
-	- **Data chiusura prevista:** Domani
+    - **Data chiusura prevista:** Domani
 
-	- **Ricavi previsti:** 70.000
+    - **Ricavi previsti:** 70.000
 
 12. Nella griglia secondaria Parti interessate si noti che Suzanne Burke è già definita come parte interessata. 
 

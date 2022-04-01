@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 5.3: Lab di fine modulo Dynamics 365 Project Operations'
-    module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'
+  title: 'Lab 5.3: Lab di fine modulo su Dynamics 365 Project Operations'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 29ccc6c69e61b6a2f2da8993e2b5fc29716284e2
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908974"
 ---
-
-Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Modulo 5. Concetti fondamentali su Dynamics 365 Project Operations
 ========================
 
-## Lab pratico 5.3 - Lab di fine modulo Dynamics 365 Project Operations
+## <a name="practice-lab-53---dynamics-365-project-operations-capstone-lab"></a>Lab pratico 5.3 - Lab di fine modulo Dynamics 365 Project Operations
 
-## Scenario del lab
+## <a name="lab-scenario"></a>Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
 
 La società ABC utilizza le applicazioni Dynamics 365 per interagire con tutti i propri clienti in diverse aree dell'organizzazione, dalle vendite all'assistenza. 
 
-**Vendite e marketing**
+**Analisi di vendite e marketing**
 
 La società ABC si rivolge direttamente ai propri clienti residenziali attraverso campagne di marketing mirate. Il targeting dei clienti viene eseguito in base alla città e ad altri fattori. I materiali di marketing vengono inviati tramite e-mail e, in base all'interazione con l'e-mail, i clienti vengono guidati di conseguenza. 
 
@@ -23,24 +28,24 @@ Mentre alcuni dei prodotti più piccoli sono venduti tramite rivenditori, la mag
 
 Internamente, l'azienda si concentra su due aree principali: 
 
-- **Clienti residenziali.** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
+- **Clienti residenziali:** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
 
-- **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
+- **Clienti aziendali:** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
 È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti. 
 
-**Installazione del sistema.**
+**Installazione del sistema:**
 
 Il processo di installazione per le apparecchiature di sicurezza acquistate varia in base al tipo di cliente a cui è stata effettuata la vendita. 
 
-- **Clienti residenziali.** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
+- **Clienti residenziali:** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
 
-- **Clienti aziendali.** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
+- **Clienti aziendali:** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
 
-**Assistenza e supporto.**
+**Servizio e supporto:**
 
 Dopo aver installato i sistemi, la società ABC fornisce supporto post-vendita. Se un cliente ha un problema, può contattare l'assistenza clienti. Un agente tenterà di collaborare con il cliente in remoto per risolvere il problema. Se non è possibile risolvere il problema in remoto, l'agente di supporto può riassegnare il problema a un ordine di lavoro che verrà pianificato ed elaborato da un tecnico sul campo qualificato. 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 I venditori aziendali della società ABC concentrano la loro attenzione sui clienti che hanno bisogno di soluzioni di sicurezza aziendali più specializzate e personalizzate. Per questo motivo, le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. I cicli di vendita aziendali della società ABC possono durare diversi mesi e richiedere l'interazione di più componenti per l'esecuzione. 
 
@@ -58,19 +63,19 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 - Creare un progetto e definire un team di progetto. 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 45 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
-## Esercizio 1. Creare un'offerta di progetto e una stima di progetto
+## <a name="exercise-1-create-a-project-quote--project-estimate"></a>Esercizio 1: Creare un'offerta di progetto e una stima di progetto
 
 L'opportunità di progetto viene usata per acquisire i dettagli generali su un potenziale progetto. Man mano che emergono sempre più dettagli sul progetto, è possibile creare un'offerta di progetto. L'offerta di progetto spesso include i dettagli relativi a ruoli, sequenze temporali e prezzi diversi. L'offerta di progetto è ciò che viene presentato al cliente. Dall'offerta di progetto è anche possibile iniziare a creare un piano di progetto associato al progetto da vendere. In questo modo è possibile risparmiare tempo dopo aver venduto il progetto, dal momento che gran parte dei dettagli relativi al progetto è già stata acquisita.
 
 In questo esercizio si creerà un progetto e si definiranno i dettagli relativi all'offerta di progetto. 
 
-### Attività 1. Creare un'offerta di progetto.  
+### <a name="task-1-create-a-project-quote"></a>Attività 1: Creare un'offerta di progetto.  
 
 1. Con l'opportunità di progetto aperta, selezionare la scheda **Offerte**. 
 
@@ -86,21 +91,21 @@ In questo esercizio si creerà un progetto e si definiranno i dettagli relativi 
 
 7. Nella schermata **Quick Create Project** (Creazione rapida progetto) completare il progetto come segue:
 
-	- **Nome:** implementazione globale completa - Proprie iniziali
+    - **Nome:** implementazione globale completa - Proprie iniziali
 
-	- **Manager progetto:** selezionare il proprio record utente
+    - **Project Manager:** selezionare il proprio record utente
 
-	- **Modello calendario:** Modello di lavoro predefinito
+    - **Modello calendario:** Modello di lavoro predefinito
 
-	- **Unità di contratto:** Fabrikam US
+    - **Unità di contratto:** Fabrikam US
 
-	- **Data di inizio stimata:** One week from today (Una settimana da oggi)
+    - **Data di inizio stimata:** One week from today (Una settimana da oggi)
 
-	- **Costo della manodopera stimato:** 175.000 $
+    - **Costo della manodopera stimato:** $ 175.000
 
-	- **Costo spese stimato:** 50.000 $
+    - **Costo spese stimato:** $ 50.000
 
-	- **Costo totale stimato:** 225.000 $
+    - **Costo totale stimato:** $ 225.000
 
 8. Selezionare il pulsante **Salva e chiudi**.
 
@@ -116,21 +121,21 @@ In questo esercizio si creerà un progetto e si definiranno i dettagli relativi 
 
 14. Completare l'elemento **Dettagli riga di offerta** come segue:
 
-	- **Descrizione.** Esecuzione linea di comunicazione - Proprie iniziali
+    - **Descrizione:** Esecuzione linea di comunicazione - Proprie iniziali
 
-	- **Classe di transazione:** Ora
+    - **Classe di transazione:** Ora
 
-	- **Ruolo:** Tecnico di rete
+    - **Ruolo:** Tecnico di rete
 
-	- **Categoria:** Ora
+    - **Categoria:** Ora
 
-	- **Data di inizio:** One Month from today (Un mese da oggi)
+    - **Data di inizio:** One Month from today (Un mese da oggi)
 
-	- **Data di fine:** Two months from today (Due mesi da oggi)
+    - **Data di fine:** Two months from today (Due mesi da oggi)
 
-	- **Unità gestione risorse:** Fabrikam US
+    - **Unità gestione risorse:** Fabrikam US
 
-	- **Unità:** Ore
+    - **Unità:** Ore
 
 
 15. Selezionare il pulsante **Salva e chiudi** per chiudere l'elemento dei dettagli della riga. 
@@ -141,7 +146,7 @@ In questo esercizio si creerà un progetto e si definiranno i dettagli relativi 
 **Nota:** lasciare aperta l'offerta di progetto per usarla nell'attività successiva. 
 
 
-### Attività 2. Chiudere l'offerta di progetto e creare un contratto di progetto.
+### <a name="task-2-close-the-project-quote-and-create-a-project-contract"></a>Attività 2: Chiudere l'offerta di progetto e creare un contratto di progetto.
 
 In questa attività si chiuderà l'offerta di progetto creata e la si convertirà in un contratto di progetto. Il contratto di progetto può essere usato e sfruttato mentre il progetto è in esecuzione. 
 
@@ -156,14 +161,14 @@ In questa attività si chiuderà l'offerta di progetto creata e la si convertir�
 
 **Nota:** lasciare aperto il contratto di progetto per usarlo nell'attività successiva. 
 
-## Esercizio 2. Gestire un progetto
+## <a name="exercise-2-manage-a-project"></a>Esercizio 2: Gestire un progetto
 
 Uno dei vantaggi derivanti dall'utilizzo delle funzionalità di vendita dei progetti di Project Operations è la possibilità di creare un progetto durante il processo di vendita. Il progetto creato sarà accessibile da diversi record correlati alle vendite, ad esempio Offerte di progetto e Contratti di progetto. 
 
 In questo esercizio si gestiranno alcune delle attività iniziali correlate a un progetto, ad esempio la definizione dei dettagli del progetto, la definizione di un team di progetto e la definizione delle attività del progetto. 
 
 
-### Attività 1. Gestire i dati del progetto di base. 
+### <a name="task-1-manage-basic-project-data"></a>Attività 1: Gestire i dati del progetto di base. 
 
 1. Con il contratto di progetto **Implementazione della sicurezza globale completa - Proprie iniziali** aperto, selezionare la scheda **Elementi correlati**. 
 
@@ -178,7 +183,7 @@ In questo esercizio si gestiranno alcune delle attività iniziali correlate a un
 6. Fare clic sul pulsante **Fase successiva** per passare alla fase **Pianifica**. 
 
  
-### Attività 2. Creare un team di progetto.
+### <a name="task-2-create-a-project-team"></a>Attività 2: Creare un team di progetto.
 
 Ogni progetto avrà un team di membri che contribuiranno alla sua esecuzione. In questa attività si definiranno le risorse che costituiranno i membri del team di progetto. 
 
@@ -189,36 +194,36 @@ Ogni progetto avrà un team di membri che contribuiranno alla sua esecuzione. In
 
 3. Configurare il record del membro del team come segue:
 
-	- **Nome posizione:** Ingegnere robotico - Proprie iniziali
+    - **Nome posizione:** Ingegnere robotico - Proprie iniziali
 
-	- **Risorsa prenotabile:** Allison Dickson
+    - **Risorsa prenotabile:** Allison Dickson
 
-	- **Ruolo:** Ingegnere robotico
+    - **Ruolo:** Ingegnere robotico
 
 4. Selezionare la freccia accanto al pulsante Salva e chiudi. Nel menu visualizzato selezionare **Salva e crea nuovo**.
 
 5. Configurare il record del membro del team successivo come segue:
 
-	- **Nome posizione:** Ingegnere software - Proprie iniziali
+    - **Nome posizione:** Ingegnere software - Proprie iniziali
 
-	- **Risorsa prenotabile:** Bob Kozak
+    - **Risorsa prenotabile:** Bob Kozak
 
-	- **Ruolo:** Ingegnere software
+    - **Ruolo:** Ingegnere software
 
 6. Selezionare la freccia accanto al pulsante Salva e chiudi. Nel menu visualizzato selezionare **Salva e crea nuovo**.
 
 7. Configurare il record del membro del team come segue:
 
-	- **Nome posizione:** Tecnico di rete - Proprie iniziali
+    - **Nome posizione:** Tecnico di rete - Proprie iniziali
 
-	- **Risorsa prenotabile:** Dianna Woodward
+    - **Risorsa prenotabile:** Dianna Woodward
 
-	- **Ruolo:** Tecnico di rete
+    - **Ruolo:** Tecnico di rete
 
 8. Selezionare il pulsante **Salva e chiudi**.
 
 
-### Attività 3. Definire la pianificazione di un progetto.
+### <a name="task-3-define-a-project-schedule"></a>Attività 3: Definire la pianificazione di un progetto.
 
 Un altro aspetto importante della definizione di un progetto consiste nel delineare le attività e la pianificazione del progetto. In questa attività si aggiungeranno alcune attività del progetto e le si assocerà a ruoli diversi. 
 
@@ -233,35 +238,35 @@ Un altro aspetto importante della definizione di un progetto consiste nel deline
 
 5. Configurare l'elemento come segue:
 
-	- **Nome:** Creare il layout di sistema
+    - **Nome:** Creare il layout di sistema
 
-	- **Lavoro:** 25
+    - **Lavoro:** 25
 
 6. Sulla barra degli strumenti selezionare nuovamente il pulsante **+ Aggiungi** nella griglia secondaria Pianifica per aggiungere un'altra attività. 
 
 7. Configurare l'elemento come segue:
 
-	- **Nome:** Progettazione telecamere
+    - **Nome:** Progettazione telecamere
 
-	- **Attività precedente:** Creare il layout di sistema
+    - **Attività precedente:** Creare il layout di sistema
 
-	- **Lavoro:** 50
+    - **Lavoro:** 50
 
 8. Sulla barra degli strumenti selezionare nuovamente il pulsante **+ Aggiungi** nella griglia secondaria Pianifica per aggiungere un'attività finale. 
 
 9. Configurare l'elemento come segue:
 
-	- **Nome:** Verifica e approvazione del progetto
+    - **Nome:** Verifica e approvazione del progetto
 
-	- **Attività precedente:** Progettazione telecamere
+    - **Attività precedente:** Progettazione telecamere
 
-	- Lavoro: 8 
+    - Lavoro: 8 
 
  
 **Nota:** restare nella scheda Pianifica perché nell'attività successiva si apporteranno alcune modifiche aggiuntive. 
 
 
-### Attività 4. Associare le risorse a un progetto.
+### <a name="task-4-associate-resources-with-a-project"></a>Attività 4: Associare le risorse a un progetto.
 
 Durante la definizione della pianificazione di un progetto, è possibile specificare i tipi di risorse da usare per soddisfare i requisiti relativi alle assegnazioni del personale. Può trattarsi di risorse denominate effettive o di risorse generiche che in futuro verranno sostituite da risorse denominate. In questa attività si definiranno risorse sia denominate sia generiche per le attività del progetto create. 
 
@@ -273,11 +278,11 @@ Durante la definizione della pianificazione di un progetto, è possibile specifi
 
 4. Configurare il membro del team del progetto come segue:
 
-	- **Nome posizione:** Ingegnere robotico generico - Proprie iniziali
+    - **Nome posizione:** Ingegnere robotico generico - Proprie iniziali
 
-	- **Risorsa prenotabile:** Risorsa generica
+    - **Risorsa prenotabile:** Risorsa generica
 
-	- **Ruolo:** Ingegnere robotico
+    - **Ruolo:** Ingegnere robotico
 
 5. Selezionare il pulsante **Salva e chiudi**. 
 
@@ -289,11 +294,11 @@ Durante la definizione della pianificazione di un progetto, è possibile specifi
 
 9. Configurare il membro del team del progetto come segue:
 
-	- **Nome posizione:** Ingegnere robotico generico - Proprie iniziali
+    - **Nome posizione:** Ingegnere robotico generico - Proprie iniziali
 
-	- **Risorsa prenotabile:** Risorsa generica
+    - **Risorsa prenotabile:** Risorsa generica
 
-	- **Ruolo:** Ingegnere robotico
+    - **Ruolo:** Ingegnere robotico
 
 10. Selezionare il pulsante **Salva e chiudi**. 
 

@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 2.3: Lab di fine modulo Dynamics 365 Sales'
-    module: 'Modulo 2: Concetti fondamentali su Dynamics 365 Sales'
+  title: 'Lab 2.3: Lab di fine modulo su Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: fb97a68aa5e115834a5b925b06c7e3831a525a5b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909024"
 ---
-
-Modulo 2: Concetti fondamentali su Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Modulo 2: Concetti fondamentali su Dynamics 365 Sales
 ========================
 
-## Lab pratico 2.3. Lab di fine modulo Dynamics 365 Sales
+## <a name="practice-lab-23---dynamics-365-sales-capstone-lab"></a>Lab pratico 2.3. Lab di fine modulo Dynamics 365 Sales
 
-## Scenario del lab
+## <a name="lab-scenario"></a>Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
 
 La società ABC utilizza le applicazioni Dynamics 365 per interagire con tutti i propri clienti in diverse aree dell'organizzazione, dalle vendite all'assistenza. 
 
-**Vendite e marketing**
+**Analisi di vendite e marketing**
 
 La società ABC si rivolge direttamente ai propri clienti residenziali attraverso campagne di marketing mirate. Il targeting dei clienti viene eseguito in base alla città e ad altri fattori. I materiali di marketing vengono inviati tramite e-mail e, in base all'interazione con l'e-mail, i clienti vengono guidati di conseguenza. 
 
@@ -23,25 +28,25 @@ Mentre alcuni dei prodotti più piccoli sono venduti tramite rivenditori, la mag
 
 Internamente, l'azienda si concentra su due aree principali: 
 
-- **Clienti residenziali.** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
+- **Clienti residenziali:** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
 
-- **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
+- **Clienti aziendali:** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
 È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti. 
 
-**Installazione del sistema.**
+**Installazione del sistema:**
 
 Il processo di installazione per le apparecchiature di sicurezza acquistate varia in base al tipo di cliente a cui è stata effettuata la vendita. 
 
-- **Clienti residenziali.** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
+- **Clienti residenziali:** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
 
-- **Clienti aziendali.** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
+- **Clienti aziendali:** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
 
-**Assistenza e supporto.**
+**Servizio e supporto:**
 
 Dopo aver installato i sistemi, la società ABC fornisce supporto post-vendita. Se un cliente ha un problema, può contattare l'assistenza clienti. Un agente tenterà di collaborare con il cliente in remoto per risolvere il problema. Se non è possibile risolvere il problema in remoto, l'agente di supporto può riassegnare il problema a un ordine di lavoro che verrà pianificato ed elaborato da un tecnico sul campo qualificato.  
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Si lavora come rappresentante di vendita del reparto vendite residenziali dell'azienda ABC. Anche se molti dei lead hanno origine da eventi sponsorizzati dall'azienda, campagne di marketing ed elenchi acquistati, spesso si ricevono richieste direttamente dai clienti. Quando si ricevono tali richieste, è necessario immettere manualmente e gestire tali lead per l'intero ciclo di vita delle vendite. 
 
@@ -61,18 +66,18 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 - Generare una fattura. 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 30 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
   
-## Esercizio 1. Creare e qualificare un lead in Dynamics 365 Sales
+## <a name="exercise-1-create-and-qualify-a-lead-in-dynamics-365-sales"></a>Esercizio 1: Creare e qualificare un lead in Dynamics 365 Sales
 
 
-### Attività 1. Creare un nuovo lead
+### <a name="task-1-create-a-new-lead"></a>Attività 1: Creare un nuovo lead
 
-1. Se necessario, aprire una scheda del browser con modalità InPrivate e visitare la pagina [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Se necessario, aprire un browser InPrivate e passare a [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
 2. Quando richiesto, accedere con le credenziali utente fornite dall'istruttore. 
 
@@ -88,28 +93,28 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 8. Completare il nuovo record del lead come segue:
 
-	- **Argomento:** Ricerca di apparecchiature di sicurezza - "Proprie iniziali"
+    - **Argomento:** Ricerca di apparecchiature di sicurezza - "Proprie iniziali"
 
-	- **Nome:** Piper
+    - **Nome:** Piper
 
-	- **Cognome:** Smith - Proprie iniziali
+    - **Cognome:** Smith - Proprie iniziali
 
-	- **Telefono cellulare:** 888 555-1762
+    - **Telefono cellulare:** 888 555-1762
 
-	- **Email:** piper@sample.com
+    - **Posta elettronica:** piper@sample.com
 
 
 9. Selezionare il pulsante **Salva** sulla barra dei comandi per salvare il nuovo lead e lasciarlo aperto.
 
 10. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Selezionare la **fase di qualificazione**. Completare la fase come segue:
 
-	- **Intervallo di tempo acquisti:** Trimestre corrente
+    - **Intervallo di tempo acquisti:** Trimestre corrente
 
-	- **Budget stimato:** 10000 
+    - **Budget stimato:** 10000 
 
-	- **Processo di acquisto:** Singolo
+    - **Processo di acquisto:** Singolo
 
-	- **Identifica decisore:** Completato
+    - **Identifica decisore:** Completato
 
 11. Selezionare la **X** nella finestra della fase per chiuderla. 
 
@@ -119,13 +124,13 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 14. Nella schermata Creazione rapida: Telefonata completare la telefonata come segue:
 
-	- **Oggetto:** Ricerca di apparecchiature di sicurezza per la casa
+    - **Oggetto:** Ricerca di apparecchiature di sicurezza per la casa
 
-	- **Numero di telefono:** 888 555-1762
+    - **Numero di telefono:** 888 555-1762
 
-	- **Direzione:** In arrivo
+    - **Direzione:** In arrivo
 
-	- **Descrizione.** In seguito ad alcuni eventi verificatisi nel suo quartiere, vuole acquistare un sistema di sicurezza. 
+    - **Descrizione:** In seguito ad alcuni eventi verificatisi nel suo quartiere, vuole acquistare un sistema di sicurezza. 
 
 15. Selezionare il pulsante **Salva e chiudi**.
 
@@ -139,7 +144,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
  
 
-### Attività 2. Qualificare il lead come opportunità
+### <a name="task-2-qualify-the-lead-as-an-opportunity"></a>Attività 2: Qualificare il lead come opportunità
 
 Dopo una visita a casa di Piper, si stabilisce che è abbastanza interessata da giustificarne l'avanzamento e che si dispone dei prodotti e dei servizi di cui ha bisogno. A questo punto, è necessario qualificare il record del lead. Verrà creato un record opportunità correlato e si passerà alla fase successiva del processo di vendita Lead - opportunità. 
 
@@ -155,11 +160,11 @@ Dopo una visita a casa di Piper, si stabilisce che è abbastanza interessata da 
 
  
 
-## Esercizio 2. Gestire un'opportunità di vendita in Dynamics 365 Sales
+## <a name="exercise-2-manage-a-sales-opportunity-in-dynamics-365-sales"></a>Esercizio 2: Gestire un'opportunità di vendita in Dynamics 365 Sales
 
 Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunità durante il ciclo di vita.
 
-### Attività 1. Gestire un'opportunità di vendita e creare un'offerta 
+### <a name="task-1-manage-a-sales-opportunity--create-a-quote"></a>Attività 1: Gestire un'opportunità di vendita e creare un'offerta 
 
 1. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Opportunità**. 
 
@@ -183,9 +188,9 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 11. Completare come segue:
 
-	- **Data chiusura prevista:** Domani
+    - **Data chiusura prevista:** Domani
 
-	- **Ricavi previsti:** 12.500,00
+    - **Ricavi previsti:** 12.500,00
 
 12. Passare alla **sequenza temporale del record** al centro dello schermo e selezionare l'**icona del segno più** per aggiungere un nuovo impegno. 
 
@@ -193,15 +198,15 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 14. Nella schermata **Creazione rapida: Appuntamento** completare come segue:
 
-	- **Oggetto:** Breve incontro - "Proprie iniziali"
+    - **Oggetto:** Breve incontro - "Proprie iniziali"
 
-	- **Posizione:** Online
+    - **Località:** Online
 
-	- **Ora di inizio**: Domani alle 10:00
+    - **Ora di inizio:** Domani alle 10:00
 
-	- **Ora di fine:** Domani alle 10:30
+    - **Ora di fine:** Domani alle 10:30
 
-15. Sulla barra dei comandi selezionare **Salva e chiudi**.
+15. Sulla barra dei comandi selezionare **Salva e chiudi**
 
 16. Nel flusso del processo aziendale Lead - opportunità selezionare la fase **Sviluppa**. Si noti che è necessario identificare le parti interessate e i concorrenti.
 
@@ -217,7 +222,7 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 22. Nella schermata **Cerca record** selezionare **Nuovo record** e quindi **Concorrenti**.
 
-23. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"**.
+23. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"** .
 
 24. Selezionare il pulsante **Salva e chiudi**.
 
@@ -241,7 +246,7 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
  
 
-### Attività 2. Gestire un'offerta
+### <a name="task-2-manage-a-quote"></a>Attività 2: Gestire un'offerta
 
 Dopo aver creato un'offerta correlata, la si preparerà per presentarla a un cliente. In circostanze normali, è probabile che si aggiungano i prodotti al record dell'offerta prima di inviarla a un cliente. Poiché si sta lavorando in ambienti condivisi, si salterà l'aggiunta delle righe dell'offerta e si eseguirà l'invio dell'offerta. 
 
@@ -270,15 +275,15 @@ Dopo aver creato un'offerta correlata, la si preparerà per presentarla a un cli
 
 12. Nella finestra Crea ordine completare come segue:
 
-	- **Motivo stato:** Acquisito
+    - **Motivo dello stato:** Acquisito
 
-	- **Data acquisizione:** Data odierna
+    - **Data acquisizione:** Data odierna
 
-	- **Chiudi opportunità:** Sì
+    - **Chiudi opportunità:** Sì
 
-	- **Calcola i ricavi effettivi dalle offerte:** No
+    - **Calcola i ricavi effettivi dalle offerte:** Non
 
-	- **Ricavi effettivi:** $12.500
+    - **Ricavi effettivi:** $ 12.500
 
 13. Selezionare il pulsante **OK**. 
 
@@ -286,7 +291,7 @@ Il sistema crea un nuovo ordine cliente relativo all'elemento. Chiuderà inoltre
 
 ###  
 
-### Attività 3. Gestire l'ordine e la fattura
+### <a name="task-3-manage-the-order-and-invoice"></a>Attività 3: Gestire l'ordine e la fattura
 
 Dopo aver creato un ordine cliente, l'ordine verrà chiuso e verrà generata una fattura. In circostanze normali, si aggiungerebbero i prodotti dal record dell'offerta all'ordine cliente. Poiché si sta lavorando in ambienti condivisi, si proseguirà come se i prodotti fossero stati aggiunti. 
 
@@ -296,9 +301,9 @@ Dopo aver creato un ordine cliente, l'ordine verrà chiuso e verrà generata una
 
 2. Nella schermata Evadi ordine completare come segue:
 
-	- **Motivo stato:** Completato
+    - **Motivo dello stato:** Completato
 
-	- **Data evasione:** Data odierna
+    - **Data evasione:** Data odierna
 
 3. Selezionare il pulsante **Evadi**. 
 

@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Lab 1.6: Creare un semplice percorso del cliente'
-    module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
+  title: 'Lab 1.6: Creare un percorso del cliente semplice'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 3ab6783be7050e95a06ffda711017e0ca455125a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909004"
 ---
-
-Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
 ========================
 
-## Lab pratico 1.6. Creare un semplice percorso del cliente
+## <a name="practice-lab-16---create-a-simple-customer-journey"></a>Lab pratico 1.6. Creare un semplice percorso del cliente
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Durante questo esercizio si vedrà che i percorsi del cliente sono un componente chiave di Dynamics 365 Marketing. Si creeranno percorsi del cliente come base per qualsiasi iniziativa di marketing, al fine di orientare il percorso intrapreso da un cliente prende mentre interagisce con il processo di marketing dell'organizzazione. L'obiettivo del percorso, una volta completato, è la conversione in ricavi.
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 10 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 **Nota:** Le e-mail di marketing non possono essere create o modificate in Internet Explorer. Usare Microsoft Edge o Google Chrome per completare questo esercizio.
 
@@ -37,7 +42,7 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 7. Verrà visualizzata la pagina **Nuovo percorso del cliente**, con la finestra di dialogo **Seleziona modello di percorso del cliente** visualizzata. Selezionare **Ignora** per iniziare a creare il percorso da zero.
 
-8. Selezionare **Set audience** (Imposta destinatari) o, in alternativa, selezionare **+**. Selezionare il segmento Clienti di Chicago creato nell'esercizio precedente. Il primo riquadro viene popolato con il nome del segmento e nel riquadro **Destinatari** vengono visualizzate le proprietà del segmento.
+8. Selezionare **Set audience (Imposta destinatari)** o, in alternativa, selezionare **+** . Selezionare il segmento Clienti di Chicago creato nell'esercizio precedente. Il primo riquadro viene popolato con il nome del segmento e nel riquadro **Destinatari** vengono visualizzate le proprietà del segmento.
 
 9. Selezionare **+** nella corsia Clienti di Chicago e quindi selezionare **Invia un messaggio e-mail** dal menu di scelta rapida.
 
@@ -45,13 +50,13 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 11. Selezionare la scheda Generale nella parte superiore del record del percorso cliente. Immettere le informazioni seguenti nella scheda **Generale**:
 
-	- **Nome**: Percorso del cliente Chicago
+    - **Nome**: Percorso del cliente Chicago
 
-	- **Data e ora di inizio**: Immettere la data odierna
+    - **Data e ora di inizio**: Immettere la data odierna
 
-	- **Data e ora di fine**: Un mese da oggi
+    - **Data e ora di fine**: Un mese da oggi
 
-	- **Fuso orario**: Selezionare il fuso orario locale 
+    - **Fuso orario**: Selezionare il fuso orario locale 
 
 12. Sulla barra dei comandi selezionare **Salva** per salvare il lavoro eseguito finora.
 

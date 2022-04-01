@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 4.2: Pianificare elementi in Dynamics 365 Field Service'
-    module: 'Modulo 4: Concetti fondamentali su Dynamics 365 Field Service'
+  title: 'Lab 4.2: Pianificare elementi in Dynamics 365 Field Service'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: abbdb5d7f8c2507bebf634a9b0fb1afea8fc8da4
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908820"
 ---
-
-Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 ========================
 
-## Lab pratico 4.2. Pianificare elementi in Dynamics 365 Field Service
+## <a name="practice-lab-42---schedule-items-in-dynamics-365-field-service"></a>Lab pratico 4.2. Pianificare elementi in Dynamics 365 Field Service
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 20 minuti
 
   **Nota:** Il riquadro Requisiti prenotazione non può essere aperto in Internet Explorer. Usare Microsoft Edge o Google Chrome per completare questo esercizio.
   
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 1. Se non è già aperta, aprire l'applicazione **Dynamics 365 Field Service**. 
 
@@ -23,31 +28,31 @@ Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 
 3. Sulla **barra dei comandi** selezionare il pulsante **Nuovo** per creare una nuova risorsa prenotabile.
 
-	- **Tipo di risorsa:** Contatto
+    - **Tipo di risorsa:** Contatti
 
-	- **Contatto:** Eleanor Ribeiro
+    - **Contattare:** Eleanor Ribeiro
 
 4. Sulla **barra dei comandi** selezionare il pulsante **Salva e chiudi**.
 
 5. Ripetere i passaggi per creare altre tre risorse prenotabili.
 
-	- **Tipo di risorsa:** Contatto
+    - **Tipo di risorsa:** Contatti
 
-	- **Contatto:** Abbie Gardiner
-
-
-	- **Tipo di risorsa:** Contatto
-
-	- **Contatto:** Aidan Knaggs
-	
-	- Selezionare la scheda Elementi correlati e aggiungere una nuova area correlata: WA
+    - **Contattare:** Abbie Gardiner
 
 
-	- **Tipo di risorsa:** Contatto
+    - **Tipo di risorsa:** Contatti
 
-	- **Contatto:** Cacilia Viera
-	
-	- Selezionare la scheda Elementi correlati e aggiungere una nuova area correlata: WA
+    - **Contattare:** Aidan Knaggs
+    
+    - Selezionare la scheda Elementi correlati e aggiungere una nuova area correlata: WA
+
+
+    - **Tipo di risorsa:** Contatti
+
+    - **Contattare:** Cacilia Viera
+    
+    - Selezionare la scheda Elementi correlati e aggiungere una nuova area correlata: WA
 
 
 6. Sulla **barra dei comandi** selezionare il pulsante **Salva e chiudi**.
@@ -58,17 +63,17 @@ Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 
 9. Completare i dettagli dell'ordine di lavoro come segue:
 
-	- **Account servizio:** Adatum Corporation
+    - **Account di servizio:** Adatum Corporation
 
-	- **Tipo di ordine di lavoro:** Servizio
+    - **Tipo di ordine di lavoro:** Servizio
 
-	- **Listino prezzi:** Servizio CRM Stati Uniti (esempio)
+    - **Listino prezzi:** Servizio CRM Stati Uniti (esempio)
 
-	- **Tassabile:** No
+    - **Tassabile:** Non
 
 10. Selezionare **Salva** per salvare le modifiche.
 
-	- **Tipo di incidente primario:** Surriscaldamento unità. (Crea nuovo)
+    - **Tipo di incidente primario:** Surriscaldamento unità. (Crea nuovo)
 
 11. Sulla **barra dei comandi** dell'**ordine di lavoro** selezionare il pulsante **Prenota**. Verrà aperto **Assistente di pianificazione**. 
 
@@ -102,5 +107,5 @@ Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 
 26. Selezionare la casella Cerca risorse nella scheda di pianificazione (disponibile sopra la colonna del nome della risorsa), immettere Abbie e individuare l'ordine di lavoro pianificato per Abbie più avanti nel corso del giorno. 
 
-27. Fare clic con il pulsante destro del mouse sull'ordine di lavoro, scegliere **Sostituisci risorsa** dal menu visualizzato e selezionare il pulsante **Trova sostituzione****.**
+27. Fare clic con il pulsante destro del mouse sull'ordine di lavoro, scegliere **Sostituisci risorsa** dal menu visualizzato e selezionare il pulsante **Trova sostituzione** **.**
 

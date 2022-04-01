@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Lab 3.3: Lab di fine modulo Dynamics 365 Customer Service'
-    module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'
+  title: 'Lab 3.3: Lab di fine modulo su Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 85f3778dd9ab66a52bdfe2a5a77ad71ccb55544d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909104"
 ---
-
-Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 ========================
 
-## Lab pratico 3.3. Lab di fine modulo Dynamics 365 Customer Service
+## <a name="practice-lab-33---dynamics-365-customer-service-capstone-lab"></a>Lab pratico 3.3. Lab di fine modulo Dynamics 365 Customer Service
 
-## Scenario del lab
+## <a name="lab-scenario"></a>Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
 
 La società ABC utilizza le applicazioni Dynamics 365 per interagire con tutti i propri clienti in diverse aree dell'organizzazione, dalle vendite all'assistenza. 
 
-**Vendite e marketing**
+**Analisi di vendite e marketing**
 
 La società ABC si rivolge direttamente ai propri clienti residenziali attraverso campagne di marketing mirate. Il targeting dei clienti viene eseguito in base alla città e ad altri fattori. I materiali di marketing vengono inviati tramite e-mail e, in base all'interazione con l'e-mail, i clienti vengono guidati di conseguenza. 
 
@@ -23,25 +28,25 @@ Mentre alcuni dei prodotti più piccoli sono venduti tramite rivenditori, la mag
 
 Internamente, l'azienda si concentra su due aree principali: 
 
-- **Clienti residenziali.** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
+- **Clienti residenziali:** I clienti residenziali generalmente sono alla ricerca di singoli componenti o vogliono acquistare un'intera soluzione domestica. Questi cicli di vendita di regola sono più brevi e provengono da social media, siti Web, segnalazioni o contatti diretti dal prospect. Poiché solitamente i clienti residenziali sono per lo più focalizzati su prodotti specifici o installazioni più piccole, i loro cicli di vendita durano in genere alcuni giorni o settimane. 
 
-- **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
+- **Clienti aziendali:** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
 È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti. 
 
-**Installazione del sistema.**
+**Installazione del sistema:**
 
 Il processo di installazione per le apparecchiature di sicurezza acquistate varia in base al tipo di cliente a cui è stata effettuata la vendita. 
 
-- **Clienti residenziali.** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
+- **Clienti residenziali:** Poiché le installazioni residenziali in genere richiedono meno di un giorno, vengono eseguite da dipendenti interni. Dopo la vendita, viene creato un ordine di lavoro e viene identificato e pianificato un tecnico qualificato per eseguire l'installazione. 
 
-- **Clienti aziendali.** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
+- **Clienti aziendali:** Le distribuzioni aziendali possono durare mesi e richiedere un manager del progetto per supervisionare le operazioni quotidiane. Questo include la creazione di piani di progetto, la definizione di team di progetto e la pianificazione delle risorse. 
 
-**Assistenza e supporto.**
+**Servizio e supporto:**
 
 Dopo aver installato i sistemi, la società ABC fornisce supporto post-vendita. Se un cliente ha un problema, può contattare l'assistenza clienti. Un agente tenterà di collaborare con il cliente in remoto per risolvere il problema. Se non è possibile risolvere il problema in remoto, l'agente di supporto può riassegnare il problema a un ordine di lavoro che verrà pianificato ed elaborato da un tecnico sul campo qualificato. 
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Capita spesso che i clienti riscontrino problemi con le apparecchiature. Quando un problema viene riscontrato, viene segnalato all'help desk dell'azienda ABC. I problemi possono essere segnalati in diversi modi. In alcuni casi, le apparecchiature possono segnalare i problemi in modo proattivo. Quando vengono segnalati problemi, gli operatori provano a risolverli in remoto. Se non riescono, verrà inviato un tecnico sul campo per risolvere il problema. Di recente, sono stati riparati molti sensori che si sono spenti. Si è notato che il problema era causato da un bug del software. Si vuole creare un articolo della Knowledge Base a cui gli altri operatori possano fare riferimento quando riscontrano lo stesso problema. 
 
@@ -57,15 +62,15 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 - Gestione del record di un caso per l'intero ciclo di vita. 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 45 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
-## Esercizio 1. Creare e pubblicare un articolo della Knowledge Base
+## <a name="exercise-1-create-and-publish-a-knowledge-article"></a>Esercizio 1: Creare e pubblicare un articolo della Knowledge Base
 
-### Attività 1. Creare un articolo della Knowledge Base
+### <a name="task-1-create-a-knowledge-article"></a>Attività 1: Creare un articolo della Knowledge Base
 
 1. Se non è già aperta, aprire l'applicazione **Hub del servizio clienti di Dynamics 365**. 
 
@@ -83,29 +88,29 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 8. Completare l'articolo come segue:
 
-	- **Titolo.** Il sensore non funziona - Proprie iniziali
+    - **Titolo:** Il sensore non funziona - Proprie iniziali
 
-	- **Parole chiave.** Sensore, danneggiato, non funzionante
+    - **Parole chiave:** Sensore, danneggiato, non funzionante
 
-	- **Descrizione.** Consente di gestire gli scenari in cui un sensore non funziona. 
+    - **Descrizione:** Consente di gestire gli scenari in cui un sensore non funziona. 
 
 9. Immettere il testo seguente nel casella di testo della **finestra di progettazione del contenuto**.   
 
-	Il sensore attualmente non funziona
+    Il sensore attualmente non funziona
 
-	Quando un sensore non funziona come dovrebbe, seguire questa procedura:
+    Quando un sensore non funziona come dovrebbe, seguire questa procedura:
 
-	1. Individuare e sostituire le batterie del dispositivo. 
+    1. Individuare e sostituire le batterie del dispositivo. 
 
-	2. Tenere premuto il pulsante di accensione per 3 secondi. 
+    2. Tenere premuto il pulsante di accensione per 3 secondi. 
 
-	3. Il dispositivo si aprirà in modalità di amministrazione. 
+    3. Il dispositivo si aprirà in modalità di amministrazione. 
 
-	4. Tenere premuto il pulsante Associa finché la spia luminosa passa da rossa a blu. 
+    4. Tenere premuto il pulsante Associa finché la spia luminosa passa da rossa a blu. 
 
-	5. Premere il pulsante Reimposta. 
+    5. Premere il pulsante Reimposta. 
 
-	Dopo il riavvio, il dispositivo sarà di nuovo online. 
+    Dopo il riavvio, il dispositivo sarà di nuovo online. 
 
 10. Nell'editor contenuto selezionare il testo Il sensore attualmente non funziona.
 
@@ -123,7 +128,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
  
 
-### Attività 2. Gestire un articolo tramite il processo di approvazione
+### <a name="task-2-manage-an-article-through-the-approval-process"></a>Attività 2: Gestire un articolo tramite il processo di approvazione
 
 Nella maggior parte delle organizzazioni, dopo che l'autore dell'articolo ha creato il record, viene eseguito un processo di approvazione prima di pubblicarlo. Il più delle volte questa operazione viene eseguita da un'altra persona. In questo caso si opererà come responsabile approvazione. 
 
@@ -168,7 +173,7 @@ Nella maggior parte delle organizzazioni, dopo che l'autore dell'articolo ha cre
 20. Quando viene richiesto di confermare l'approvazione dell'articolo, selezionare **OK**. 
 
 
-### Attività 3. Approvare l'articolo della Knowledge Base
+### <a name="task-3-approve-the-knowledge-article"></a>Attività 3: Approvare l'articolo della Knowledge Base
 
 Ora che l'articolo è stato approvato, verrà pubblicato in modo che sia disponibile per chi lavora ai casi. 
 
@@ -184,23 +189,23 @@ Ora che l'articolo è stato approvato, verrà pubblicato in modo che sia disponi
 
 6. Verificare che siano selezionate le opzioni seguenti:
 
-	- **Pubblica:** Ora
+    - **Pubblica:** Ora
 
-	- **Stato pubblicazione:** Pubblicato
+    - **Stato pubblicazione:** Pubblicato
 
-	- **Data scadenza:** Un anno da oggi alle 12:00
+    - **Data di scadenza:** Un anno da oggi alle 12:00
 
-	- **Stato scadenza:** Scaduto
+    - **Stato scadenza:** Expired
 
-	- **Stato scadenza:** Scaduto
+    - **Stato scadenza:** Expired
 
 7. Selezionare il pulsante **Pubblica** per pubblicare l'articolo.
 
 
-## Esercizio 2. Gestire un caso di supporto tecnico per l'intero ciclo di vita
+## <a name="exercise-2-manage-a-support-case-through-its-lifecycle"></a>Esercizio 2: Gestire un caso di supporto tecnico per l'intero ciclo di vita
 
 
-### Attività 1. Creare e gestire un caso
+### <a name="task-1-create-and-manage-a-case"></a>Attività 1: Creare e gestire un caso
 
 1. Se non è già aperta, aprire l'applicazione **Hub del servizio clienti di Dynamics 365**. 
 
@@ -223,13 +228,13 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 12. Completare il nuovo record del caso come segue:
 
-	- **Titolo caso:** Il sensore non funziona - Proprie iniziali
+    - **Titolo caso:** Il sensore non funziona - Proprie iniziali
 
-	- **Cliente:** Piper Smith
+    - **Cliente:** Piper Smith
 
-	- **Origine:** Telefono
+    - **Origine:** Telefono
 
-	- **Descrizione.** Piper sta segnalando che uno dei sensori che ha ricevuto non funziona correttamente. 
+    - **Descrizione:** Piper sta segnalando che uno dei sensori che ha ricevuto non funziona correttamente. 
 
 13. Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto. 
 
@@ -239,13 +244,13 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 16. Nella schermata **Creazione rapida: Telefonata** completare l'impegno come segue:
 
-	- **Oggetto:** Richiamare Piper
+    - **Oggetto:** Richiamare Piper
 
-	- **Direzione:** In uscita
+    - **Direzione:** In uscita
 
-	- **Numero di telefono:**  888 555-1762
+    - **Numero di telefono:**  888 555-1762
 
-	- **Durata:** 15 minuti.
+    - **Durata:** 15 minuti.
 
 17. Selezionare il pulsante **Salva e chiudi**. 
 
@@ -261,11 +266,11 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 23. Nella schermata **Creazione rapida: Telefonata** completare l'impegno come segue:
 
-	- **Oggetto:** Cercare il problema di Piper
+    - **Oggetto:** Cercare il problema di Piper
 
-	- **Descrizione.** Usare la Knowledge Base per cercare il problema di Piper. 
+    - **Descrizione:** Usare la Knowledge Base per cercare il problema di Piper. 
 
-	- **Durata:** 30 minuti.
+    - **Durata:** 30 minuti.
 
 24. Selezionare il pulsante **Salva e chiudi**. 
 
@@ -279,15 +284,15 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
  
 
-### Attività 2. Chiudere il caso
+### <a name="task-2-close-the-case"></a>Attività 2: Chiudere il caso
 
 Ora che è stata identificata una soluzione al problema del cliente, si procederà a risolvere il caso, Il primo passaggio della chiusura di un caso consiste nel chiudere gli impegni aperti associati al caso. 
 
-1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza **.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 2. Nella finestra **Chiudi attività** verificare che lo stato sia Completato e selezionare il pulsante **Chiudi**. Lo stato dell'attività dovrebbe essere **Chiusa**. 
 
-3. Passare il puntatore su **Richiamare Piper** creato in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+3. Passare il puntatore su **Richiamare Piper** creato in precedenza **.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 4. Nella schermata **Chiudi telefonata** verificare che **Stato** sia **Completato** e che **Stato** sia **Effettuata**. Selezionare il pulsante **Chiudi**. Verificare che l'impegno sia visualizzato come chiuso nella sequenza temporale. 
 

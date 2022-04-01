@@ -1,19 +1,24 @@
 ---
 lab:
-    title: 'Lab 3.2: Creare e gestire casi in Dynamics 365 Customer Service'
-    module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'
+  title: 'Lab 3.2: Creare e gestire casi in Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 246ffc81d2edbffcfc809e242757784acdcccb0d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909101"
 ---
-
-Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 ========================
 
-## Lab pratico 3.2. Creare e gestire casi in Dynamics 365 Customer Service
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>Lab pratico 3.2. Creare e gestire casi in Dynamics 365 Customer Service
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 10 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 1. Se non è già aperta, aprire l'applicazione **Hub del servizio clienti di Dynamics 365**. 
 
@@ -23,11 +28,11 @@ Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 
 4. Completare il nuovo record del caso come segue:
 
-	- **Titolo caso:** Articolo arrivato danneggiato - Proprie iniziali
+    - **Titolo caso:** Articolo arrivato danneggiato - Proprie iniziali
 
-	- **Cliente:** Alpine Ski House
+    - **Cliente:** Alpine Ski House
 
-	- **Origine:** Telefono
+    - **Origine:** Telefono
 
 5. Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto. 
 

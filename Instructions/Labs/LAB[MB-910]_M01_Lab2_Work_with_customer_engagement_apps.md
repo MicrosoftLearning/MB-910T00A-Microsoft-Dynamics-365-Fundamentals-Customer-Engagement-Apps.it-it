@@ -1,32 +1,37 @@
 ---
 lab:
-    title: 'Lab 1.2: Utilizzare le app Customer Engagement'
-    module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
+  title: 'Lab 1.2: Usare le app Customer Engagement'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 4d860bc97fbea8a26911259cb11c1070561efd0c
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909014"
 ---
-
-Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
 ========================
 
-## Lab pratico 1.2. Utilizzare le app Customer Engagement 
+## <a name="practice-lab-12---work-with-customer-engagement-apps"></a>Lab pratico 1.2. Usare le app Customer Engagement 
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 Durante questo esercizio, si noterà che è molto facile accedere alle diverse applicazioni Dynamics 365 disponibili direttamente dalla schermata Home. Dopo aver aperto un'app, è possibile passare facilmente da un'applicazione all'altra in base alle esigenze. L'accesso e l'uso delle funzionalità di base nelle applicazioni Dynamics 365 sono operazioni che l'utente eseguirà quotidianamente.
 
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 15 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
-In questo esercizio verrà illustrato come accedere alle diverse applicazioni Customer Engagement di Dynamics 365 usando la schermata Home di Dynamics 365. 
+In questo esercizio verrà illustrato come accedere alle diverse applicazioni di Dynamics 365 Customer Engagement usando la schermata Home di Dynamics 365. 
 
-1.	In un Web browser passare a https://www.office.com/apps. 
+1.  In un Web browser passare a https://www.office.com/apps. 
 
-2.	Selezionar la scheda App aziendali.  
+2.  Selezionar la scheda App aziendali.  
 
-3.	Nella casella cerca immettere il testo Hub delle vendite e selezionare l'app Hub delle vendite per aprirla.  
+3.  Nella casella cerca immettere il testo Hub delle vendite e selezionare l'app Hub delle vendite per aprirla.  
 
 4. In un'app sono presenti aree diverse che è possibile usare a seconda di ciò che si vuole fare. L'applicazione Hub delle vendite, ad esempio, contiene impostazioni amministrative diverse. 
 

@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Lab 1.4: Cercare e filtrare i dati'
-    module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
+  title: Lab 1.4. Cercare e filtrare dati
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 523e40bcfed281ae3f86ed21428163f603cc7f2d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909031"
 ---
-
-Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
 ========================
 
-## Lab pratico 1.4. Cercare e filtrare i dati
+## <a name="practice-lab-14---search-and-filter-data"></a>Lab pratico 1.4. Cercare e filtrare i dati
 
-## Obiettivi
+## <a name="objectives"></a>Obiettivi
 
 L'individuazione di dati nell'applicazione è praticamente un'attività quotidiana. Più si è efficienti nel cercare e trovare le informazioni, più velocemente sarà possibile gestire le richieste dei clienti e spostarsi nell'applicazione in generale.  Questo lab illustrerà il processo.
 
-## Configurazione del lab
+## <a name="lab-setup"></a>Configurazione del lab
 
   - **Tempo stimato**: 15 minuti
 
-## Istruzioni
+## <a name="instructions"></a>Istruzioni
 
 In questo esercizio si utilizzeranno le funzionalità di ricerca e filtro di Dynamics 365 per individuare e usare record diversi. 
 
@@ -41,17 +46,17 @@ In questo esercizio si utilizzeranno le funzionalità di ricerca e filtro di Dyn
 
 10. Selezionare il collegamento **Contoso Corporate** per aprire il record. 
 
-11. Passare alla **sequenza temporale del record** al centro dello schermo e selezionare l'icona **+** per aggiungere un nuovo elemento impegno. 
+11. Passare alla **sequenza temporale** del record al centro dello schermo e selezionare l'icona **+** per aggiungere un nuovo elemento impegno. 
 
 12. Nel menu visualizzato selezionare **Attività**.
 
 13. Completare il modulo **Quick Create Task** (Creazione rapida attività) come segue:
 
-	- **Oggetto:** Invio di materiale di marketing - Proprie iniziali
+    - **Oggetto:** Invio di materiale di marketing - Proprie iniziali
 
-	- **Scadenza:** Domani alle 08:30
+    - **Scadenza:** Domani alle 08:30
 
-	- **Priorità:** Alto
+    - **Priorità:** Elevato
 
 14. Selezionare il pulsante **Salva e chiudi**.
 
