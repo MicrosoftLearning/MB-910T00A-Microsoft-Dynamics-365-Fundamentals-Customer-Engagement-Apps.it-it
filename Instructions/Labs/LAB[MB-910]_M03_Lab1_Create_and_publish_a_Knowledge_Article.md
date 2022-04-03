@@ -2,12 +2,12 @@
 lab:
   title: 'Lab 3.1: Creare e pubblicare un articolo della Knowledge Base in Dynamics 365 Customer Service'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909094"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141142001"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137909094"
 
 3. Per visualizzare facilmente gli articoli in fasi diverse, selezionare la freccia a discesa accanto a **Articoli attivi personali**. 
 
-4. Selezionare la vista **Bozze di articoli**. 
+4. Selezionare **Bozze di articoli**. Dovrebbero essere visualizzati due articoli in modalità bozza.
 
-5. Selezionare **Articoli approvati**. 
+5. Selezionare **Articoli approvati**. Dovrebbe essere presente almeno un articolo approvato.  
 
 6. Tornare ad **Articoli attivi personali**
 
@@ -60,9 +60,9 @@ ms.locfileid: "137909094"
 
     5. Selezionare Stampa
 
-Dopo che avremo ricevuto l'articolo reso/danneggiato, l'importo vi verrà nuovamente accreditato sul conto.
+    Dopo che avremo ricevuto l'articolo reso/danneggiato, l'importo vi verrà nuovamente accreditato sul conto.
 
-**NOTA:** se lo si desidera, è possibile aggiungere la formattazione al testo. 
+    **NOTA:** se lo si desidera, è possibile aggiungere la formattazione al testo. 
 
 10. Sulla **barra dei comandi** selezionare il pulsante **Salva** per salvare l'articolo della Knowledge Base e lasciarlo aperto. 
 
@@ -115,5 +115,7 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
     - **Stato scadenza:** Expired
 
     - **Pubblica le traduzioni approvate:** Non
+    
+29. Fare clic sul pulsante **Pubblica** per pubblicare l'articolo.
 
 
