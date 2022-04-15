@@ -2,12 +2,12 @@
 lab:
   title: 'Lab 4.3: Lab di fine modulo su Dynamics 365 Field Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909084"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605549"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 ========================
@@ -98,7 +98,7 @@ Di recente l'azienda Active Transport, Inc. ha contattato il supporto tecnico pe
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>Attività 2: Creare manualmente un ordine di lavoro
+### <a name="task-2-manually-create-a-work-order"></a>Attività 2: Creare manualmente un ordine di lavoro
 
 Più avanti si tornerà al record del caso creato. Ora si esaminerà come creare manualmente il record di un ordine di lavoro. 
 
