@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 2.1: Creare un segmento in Dynamics 365 Marketing'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855073"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modulo 2. Concetti fondamentali su Dynamics 365 Marketing
 ========================
 
@@ -25,28 +20,30 @@ Durante questo esercizio, si noterà che è molto facile creare segmenti di clie
 ## <a name="instructions"></a>Istruzioni
 
 
-1. Usando la struttura di spostamento a sinistra, selezionare **Segmenti** in Marketing.  
+1. Aprire l'applicazione Dynamics 365 Marketing. 
 
-2. Sulla barra dei comandi selezionare **Nuovo**.
+2. Usando la barra di spostamento a sinistra, impostare Area su **Outbound marketing** e selezionare **Segmenti** nel gruppo Clienti.
 
-3. Nel menu a discesa visualizzato selezionare **New Dynamic Segment** (Nuovo segmento dinamico).
+3. Sulla barra dei comandi selezionare **Nuovo**.
 
-4. Nella finestra di dialogo **Segment Templates** (Modelli di segmento) visualizzata selezionare **Basic profile segment** (Segmento profilo di base)e quindi selezionare il pulsante **Select** (Seleziona).
+4. Nel menu a discesa visualizzato selezionare **New Dynamic Segment** (Nuovo segmento dinamico).
 
-5. Selezionare il testo fantasma **Selezionare un attributo**.
+5. Nella finestra di dialogo **Segment Templates** (Modelli di segmento) visualizzata selezionare **Basic profile segment** (Segmento profilo di base)e quindi selezionare il pulsante **Select** (Seleziona).
 
-6. Digitare "città" per filtrare l'elenco e selezionare **Indirizzo 1: Città**.
+6. Selezionare il testo fantasma **Selezionare un attributo**.
 
-7. Mantenere l'elenco a discesa successivo impostato su **È**. 
+7. Digitare "città" per filtrare l'elenco e selezionare **Indirizzo 1: Città**.
 
-8. Selezionare il terzo elenco a discesa, che contiene il testo fantasma **Immettere il testo**, e digitare **Redmond**.
+8. Mantenere l'elenco a discesa successivo impostato su **È**. 
 
-9. Fare clic per selezionare il campo **Nome** nella parte superiore della query e immettere **Contatti di Redmond**.
+9. Selezionare il terzo elenco a discesa, che contiene il testo fantasma **Immettere il testo**, e digitare **Redmond**.
 
-10. Selezionare **Salva** sulla barra dei comandi per salvare il segmento.
+10. Fare clic per selezionare il campo **Nome** nella parte superiore della query e immettere **Contatti di Redmond - Iniziali**.
 
-11. Selezionare **Go Live** per pubblicare il segmento.
+11. Selezionare **Salva** sulla barra dei comandi per salvare il segmento.
 
-12. Attendere circa un minuto e quindi selezionare **Aggiorna** sulla barra dei comandi per aggiornare la pagina. 
+12. Selezionare **Go Live** per pubblicare il segmento.
 
-13. Ora dovrebbe essere possibile vedere che è stata aggiunta una scheda **Membri**. 
+13. Attendere circa un minuto e quindi selezionare **Aggiorna** sulla barra dei comandi per aggiornare la pagina. 
+
+14. Ora dovrebbe essere possibile vedere che è stata aggiunta una scheda **Membri**. 

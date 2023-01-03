@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 1.2: Gestire clienti e attività'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404961"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Modulo 1. Esaminare le principali funzionalità di Dynamics 365 (CRM)
 ========================
 
@@ -28,7 +23,7 @@ In questo esercizio si utilizzeranno record comuni impiegati da tutte le app Cus
 
 1. Se non è già aperta, aprire l'applicazione **Hub delle vendite di Dynamics 365**. 
 
-2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Account**. 
+2. Selezionare **Account** nella sezione **Clienti** del menu a sinistra. 
 
 3. Sulla barra dei comandi nella parte superiore dello schermo selezionare il pulsante **Nuovo**.
 
@@ -68,9 +63,9 @@ In questo esercizio si utilizzeranno record comuni impiegati da tutte le app Cus
 
 9. Selezionare il pulsante **Salva** per salvare l'account e lasciarlo aperto. 
 
-10. Individuare la griglia secondaria **Contatti** sulla destra della schermata. 
+10. Individuare la griglia secondaria Contatti sulla destra della schermata.
 
-11. Selezionare i **puntini di sospensione verticali** e scegliere **Nuovo contatto** dal menu visualizzato. 
+11. Selezionare i **puntini di sospensione verticali** e scegliere **Nuovo contatto** dal menu visualizzato.
 
 12. Usando il modulo **Quick Create Contact** (Creazione rapida contatto) completare il contatto come segue:
 
@@ -90,7 +85,7 @@ In questo esercizio si utilizzeranno record comuni impiegati da tutte le app Cus
 
 16. Nel menu visualizzato selezionare **Appuntamento**.
 
-17. Completare l'appuntamento come segue:
+17. Completare il modulo **Creazione rapida: Appuntamento** come indicato di seguito:
 
     - **Oggetto:** Riunione con Jackson
 
@@ -98,16 +93,14 @@ In questo esercizio si utilizzeranno record comuni impiegati da tutte le app Cus
 
     - **Ora di fine:** Domani alle 11:00 
 
-18. Selezionare il pulsante **Salva e chiudi**. 
+18. Selezionare il pulsante **Salva e chiudi**.      
 
-19. Premere **F5** per aggiornare la schermata.     
+19. Nella sequenza temporale del record selezionare **Visualizza altro** nel record **Appuntamento** per visualizzare altri dettagli.   
 
-20. Nella sequenza temporale del record selezionare **Appuntamento** per visualizzare i dettagli.   
+20. Fare clic sul pulsante **Apri record**. 
 
-21. Selezionare il collegamento **Apri appuntamento**. 
+21. Con il record dell'appuntamento aperto, sulla **barra dei comandi** selezionare il pulsante **Segna come completato** per completare l'appuntamento. 
 
-22. Con il record dell'appuntamento aperto, sulla **barra dei comandi** selezionare il pulsante **Segna come completato** per completare l'appuntamento. 
+22. Selezionare il pulsante **Salva e chiudi** per tornare al record dell'account.   
 
-23. Selezionare il pulsante **Salva e chiudi** per tornare al record dell'account.   
-
-24. Selezionare **Salva e chiudi** nel record dell'account per chiudere il record dell'account.   
+23. Selezionare **Salva e chiudi** nel record dell'account per chiudere il record dell'account.   

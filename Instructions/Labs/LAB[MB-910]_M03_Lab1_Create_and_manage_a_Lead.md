@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 3.1: Creare e gestire un lead in Dynamics 365 Sales'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 750ac8f84444e734bacc52adacb1c9b041959c7f
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405061"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Sales
 ========================
 
@@ -35,15 +30,15 @@ Durante questo esercizio verrà acquisito un lead di vendita per Suzanne Burke. 
 
     - **Argomento:** Ricerca di nuove attrezzature - Proprie iniziali
 
-    - **Nome:** Suzanne
+    - **Nome:** Suzanne - Proprie iniziali
 
-    - **Cognome:** Burke
+    - **Cognome:** Burke - Proprie iniziali
 
     - **Posizione:** CFO
 
     - **Telefono ufficio:** 888 555-8715
 
-    - **Posta elettronica:** Suzanne@contososample.com
+    - **Posta elettronica:** Suzanne.YourInitials@contososample.com
 
     - **Società:** Contoso - Washington
 

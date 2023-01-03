@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 5.1: Creazione di ordini di lavoro in Dynamics 365 Field Service'
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405100"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modulo 5. Concetti fondamentali su Dynamics 365 Field Service
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144405100"
 
 ## <a name="instructions"></a>Istruzioni
 
-1. Usando la struttura di spostamento a sinistra, selezionare **Ordini di lavoro**.
+1. Se non è già aperta, aprire l'applicazione **Dynamics 365 Field Service**. Selezionare **Ordini di lavoro** nella sezione **Pianificazione** del menu a sinistra.
 
 2. Sulla **barra dei comandi** selezionare il pulsante **Nuovo** per creare un nuovo ordine di lavoro.
 

@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 4.1: Creare e pubblicare un articolo della Knowledge Base in Dynamics 365 Customer Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855084"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modulo 4. Concetti fondamentali su Dynamics 365 Customer Service
 ========================
 
@@ -22,13 +17,13 @@ ms.locfileid: "147855084"
 
 1. Se non è già aperta, aprire l'applicazione **Hub del servizio clienti di Dynamics 365**. 
 
-2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Articoli della Knowledge Base**. 
+2. Selezionare **Articoli della Knowledge Base** nella sezione **Knowledge Base** del menu a sinistra. 
 
-3. Per visualizzare facilmente gli articoli in fasi diverse, selezionare la freccia a discesa accanto a **Articoli attivi personali**. 
+3. Per visualizzare facilmente gli articoli in fasi diverse, selezionare la freccia a discesa accanto a **Articoli attivi personali**. Si noti che potrebbero non essere presenti articoli attivi nell'elenco.
 
 4. Selezionare **Bozze di articoli**. 
 
-5. Selezionare **Articoli approvati**. Dovrebbe essere presente almeno un articolo approvato.  
+5. Selezionare **Articoli approvati**. 
 
 6. Tornare ad **Articoli attivi personali**
 
@@ -66,7 +61,7 @@ ms.locfileid: "147855084"
 
 11. Sulla **barra dei comandi** selezionare il pulsante **Salva** per salvare l'articolo della Knowledge Base e lasciarlo aperto. 
 
-12. In **Nuovo processo** selezionare la fase **Autore**, impostare il campo **Argomento articolo** su **Consegna** (in Servizio). 
+12. In **Nuovo processo** selezionare la fase **Autore** e impostare il campo **Argomento articolo** su **Argomento predefinito**. 
 
 13. Impostare il campo **Contrassegna per la revisione** su **Completato**.
 
@@ -88,7 +83,7 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 21. Sulla **barra dei comandi** nella parte superiore dell'articolo selezionare i **puntini di sospensione verticali** a sinistra della barra dei comandi. Nel menu visualizzato selezionare **Correla prodotto**. 
 
-22. Nella finestra **Correla prodotto** selezionare **Office 365 for Enterprise (Sample)** (Office 365 Enterprise - Esempio)
+22. Nel modulo **Correla prodotto** selezionare **Office 365** in **Seleziona il prodotto con cui eseguire l'associazione**.
 
 23. Selezionare il pulsante **Associa**. 
 
@@ -100,22 +95,14 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 27. Selezionare il pulsante **Fine** per completare il processo. 
 
-28. Sulla **barra dei comandi** dell'articolo selezionare il pulsante **Pubblica**. 
-
-29. Verificare che siano selezionate le opzioni seguenti:
+28. Nel modulo **Pubblica** verificare che siano selezionate le opzioni seguenti:
 
     - **Pubblica:** Ora
 
     - **Stato pubblicazione:** Pubblicato
 
     - **Data di scadenza:** Un anno da oggi alle 12:00
-
-    - **Stato scadenza:** Expired
-
-    - **Stato scadenza:** Expired
-
-    - **Pubblica le traduzioni approvate:** Non
     
-30. Fare clic sul pulsante **Pubblica** per pubblicare l'articolo.
+29. Fare clic sul pulsante **Pubblica** per pubblicare l'articolo.
 
-
+>[!Note] La visualizzazione degli articoli della Knowledge Base pubblicati nella **ricerca nella Knowledge Base** può richiedere alcuni minuti.

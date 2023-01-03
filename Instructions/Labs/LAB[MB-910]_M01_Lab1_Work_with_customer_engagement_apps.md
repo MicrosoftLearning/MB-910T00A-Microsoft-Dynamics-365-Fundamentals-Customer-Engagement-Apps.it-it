@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 1.1: Usare le app Customer Engagement'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404967"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Modulo 1. Esaminare le principali funzionalità di Dynamics 365 (CRM)
 ========================
 
@@ -41,9 +36,9 @@ Importante: tenere presente che questo tenant e l'organizzazione Dynamics 365 ve
 
 2. Selezionare l'ambiente WWLLABnnn, dove nnn è un numero. Questo è l'ambiente condiviso di Dynamics 365 in cui verranno eseguiti tutti i lab.
 
-3. Fare clic su Apri ambiente
+3. Fare clic su **Apri** dal menu in alto o fare clic sull'URL dell'ambiente WWLLABnnn.
 
-4. Espandere il pulsante dell'icona di avvio delle app nell'angolo in alto a sinistra della schermata, immediatamente a sinistra dell'interfaccia di amministrazione di Power Platform. Selezionare l'app Dynamics 365 Marketing per avviarla.
+4. Selezionare l'app **Marketing** per avviarla.
 
 5. Esplorare il pannello di navigazione sulla sinistra. Il pulsante nella parte inferiore del pannello consente di cambiare area. Attualmente è visualizzata l'area Marketing.
 
