@@ -1,14 +1,9 @@
 ---
 lab:
-  title: "Lab 3.2: Creare e gestire un'opportunità in Dynamics 365 Sales"
+  title: 'Lab 3.2: Creare e gestire un''opportunità in Dynamics 365 Sales'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405101"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Modulo 3: Concetti fondamentali su Dynamics 365 Sales
 ========================
 
@@ -71,19 +66,19 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni di
 
 12. Nella griglia secondaria Parti interessate si noti che Suzanne Burke è già definita come parte interessata. 
 
-13. Nella griglia secondaria Team di vendita selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Nuova connessione**. 
+13. Nella griglia secondaria Team di vendita selezionare **Nuova connessione**. Nota: le griglie secondarie sono reattive e, se lo spazio sullo schermo non è sufficiente, il pulsante è disponibile nel menu **puntini di sospensione verticali**.
 
 14. Cercare e selezionare il record dell'utente. Al termine, selezionare il pulsante **Aggiungi**. 
 
-15. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
+15. Nella griglia secondaria Concorrenti selezionare **Aggiungi concorrente esistente**. Nota: le griglie secondarie sono reattive e, se lo spazio sullo schermo non è sufficiente, il pulsante è disponibile nel menu **puntini di sospensione verticali**.
 
 16. Nella schermata **Cerca record** selezionare **Nuovo record** e quindi **Concorrenti**.
 
-17. Nella schermata **Creazione rapida: Concorrente** impostare il campo **Nome** su **Coho Technologies**.
+17. Nella schermata **Creazione rapida: Concorrente** impostare il campo **Nome** su **Coho Technologies - Proprie iniziali**.
 
 18. Selezionare il pulsante **Salva e chiudi**.
 
-19. **Coho Technologies** sarà selezionato nella finestra Cerca record. Selezionare il pulsante **Aggiungi** per completare l'aggiunta del concorrente. 
+19. **Coho Technologies - Proprie iniziali** sarà selezionato nella finestra di ricerca dei record. Selezionare il pulsante **Aggiungi** per completare l'aggiunta del concorrente. 
 
 20. Selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
 

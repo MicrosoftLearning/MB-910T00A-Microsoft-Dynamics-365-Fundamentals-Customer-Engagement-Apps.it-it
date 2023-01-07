@@ -2,13 +2,8 @@
 lab:
   title: 'Lab 2.2: Creare un percorso del cliente semplice'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405060"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Modulo 2. Concetti fondamentali su Dynamics 365 Marketing
 ========================
 
@@ -30,11 +25,12 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 1. Se necessario, aprire l'applicazione Dynamics 365 Marketing. 
 
-2. Usando la struttura di spostamento a sinistra, selezionare **E-mail di marketing** nel gruppo Esecuzione marketing.
+2. Usando la barra di spostamento a sinistra, impostare Area su **Outbound marketing** e selezionare **Marketing postale** nel gruppo Esecuzione marketing.
 
 3. Individuare e aprire l'e-mail di marketing **Presentazione di Chairs**.  
 
-4. Sulla **barra dei comandi** in alto selezionare il pulsante **Go Live**. 
+4. Se l'e-mail **Presentazione di Chairs** è già **Live**, passare al passaggio successivo. 
+   In caso contrario, sulla **barra dei comandi** in alto selezionare il pulsante **Go Live**. 
 
 5. Ora che l'e-mail è live, usare la struttura di spostamento a sinistra per selezionare **Percorsi del cliente** nel gruppo Esecuzione marketing.
 
@@ -50,7 +46,7 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 11. Selezionare la scheda **Generale** nella parte superiore del record del percorso del cliente. Immettere le informazioni seguenti nella scheda **Generale**:
 
-    - **Nome**: Percorso del cliente Redmond
+    - **Nome**: Percorso cliente Redmond - Proprie iniziali
 
     - **Data e ora di inizio**: Immettere la data odierna
 
