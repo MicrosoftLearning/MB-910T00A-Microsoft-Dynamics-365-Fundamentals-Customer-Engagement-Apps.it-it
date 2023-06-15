@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'Percorso di apprendimento 4 - Lab 4.1: Creare e gestire casi in Dynamics 365 Servizio clienti'
+  title: 'Percorso di apprendimento 4 - Lab 4.1: Creare e gestire i casi in Dynamics 365 Servizio clienti'
   learning path: Learn the fundamentals of Dynamics 365 Customer Service
   module: Explore Dynamics 365 Customer Service
 ---
@@ -8,7 +8,7 @@ lab:
 Percorso di apprendimento 4 - Modulo 1: Esplorare Dynamics 365 Servizio clienti
 ========================
 
-## Practice Lab 4.1 - Creare e gestire casi in Dynamics 365 Servizio clienti
+## Practice Lab 4.1 - Creare e gestire i casi in Dynamics 365 Servizio clienti
 
 ## Configurazione del lab
 
@@ -16,49 +16,47 @@ Percorso di apprendimento 4 - Modulo 1: Esplorare Dynamics 365 Servizio clienti
 
 ## Istruzioni
 
-1. Se non è già aperto, aprire l'applicazione **Dynamics 365 Customer Service Hub**.
+1. Se non è già aperto, aprire l'applicazione **Dynamics 365 Hub del servizio clienti**.
 
-2. Usando il riquadro di spostamento a sinistra, selezionare **Case**.
+2. Usando lo spostamento a sinistra, selezionare **Case**.
 
-3. Sulla **barra dei comandi** selezionare il pulsante **Nuovo** per creare un nuovo record di caso.
+3.  Nella **barra dei comandi** selezionare il pulsante **+ Nuovo** per creare un nuovo record case. 
 
-4. Completare il nuovo record del caso come segue:
+4.  Completare il nuovo record del caso come segue:
 
-    - **Titolo maiuscole/minuscole:** L'articolo è arrivato danneggiato (le tue iniziali)
+    - **Titolo case:** Elemento danneggiato (iniziali)
 
     - **Cliente:** George Li
 
-    - **Origine:** Telefono
+5.  Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto. 
 
-5. Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto.
+6.  Usando la **sequenza temporale** selezionare **l'icona Segno più** per creare una nuova attività. 
 
-6. Usando la **sequenza temporale del record**, selezionare l'**icona del segno più** per creare un nuovo impegno.
+7.  Nel menu visualizzato selezionare **Telefonata**.
 
-7. Nel menu visualizzato selezionare **Telefonata**.
+8.  Impostare il campo **Oggetto** su **Chiamata restituita** e lasciare il resto dei campi così come è.
 
-8. Impostare il campo **Oggetto** su **Torna chiamata a George** e lasciare invariati i campi rimanenti.
-
-9. Fare clic sul pulsante **Salva e chiudi**.
+9.  Selezionare il pulsante **Salva e chiudi**.
 
 10. In **Processo telefono - caso** selezionare la fase **Identifica**.
 
-11. Fare clic sul pulsante **Fase successiva** per passare alla fase **Di ricerca** .
+11. Selezionare il pulsante **Fase successiva** per passare alla fase **Ricerca**.
 
-12. Fare clic sulla **X** nella finestra a comparsa **Fase di ricerca** per rimuovere la finestra in modo da poter continuare a funzionare.
+12. Selezionare la **X** nella finestra a comparsa della fase **Ricerca** in modo da continuare a funzionare. 
 
-13. Nella **sequenza temporale record** passare il puntatore del mouse sull'attività **Torna a George** Phone Call creata in precedenza. Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno.
+13. Nella **sequenza temporale** selezionare **il menu** Azioni principali verticale elipsis nell'attività **Chiamata telefonica** creata in precedenza. Selezionare **Chiudi attività** per completare l'attività. 
 
 14. Nella schermata **Chiudi chiamata telefonica** selezionare il pulsante **Chiudi chiamata telefonica** . 
 
-15. Verificare che l'impegno sia **Chiuso**.
+15. Verificare gli aggiornamenti dell'attività in **Chiuso**. 
 
-16. In **Processo telefono - caso** selezionare la fase **Ricerca**, quindi selezionare **Fase successiva** per passare alla fase **Risolvi**.
+16. Nel **processo phone to case** selezionare la fase **Ricerca** e selezionare il pulsante **Fase successiva** per passare alla fase **Di risoluzione** .
 
-17. Nella fase **Risolvi** selezionare il pulsante **Fine** per completare il flusso del processo.
+17. Nella fase **Risoluzione** selezionare il pulsante **Fine** per completare il flusso del processo aziendale. 
 
-18. Sulla **barra dei comandi** del record del caso selezionare il pulsante **Risolvi caso**.
+18. Sulla **barra dei comandi** del record del caso selezionare il pulsante **Risolvi caso**. 
 
-19. Nella finestra **Risolvi caso** impostare il campo **Risoluzione** su **Articolo della Knowledge Base**.
+19. Nella finestra **Risolvi caso** impostare il campo **Risoluzione** su **Articolo della Knowledge Base**. 
 
-20. Selezionare il pulsante **Risolvi** per completare il processo.
+20. Selezionare il pulsante **Risolvi** per completare il processo. 
 
