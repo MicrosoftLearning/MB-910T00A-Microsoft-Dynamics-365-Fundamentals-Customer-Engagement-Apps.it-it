@@ -1,11 +1,11 @@
 ---
 lab:
-  title: 'Percorso di apprendimento 1 - Lab 1.2: Gestire clienti e attività'
+  title: 'Percorso di apprendimento 1 - Lab 1.2: Gestire i clienti e le attività'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
-Percorso di apprendimento 2 - Modulo 2: Descrivere le attività condivise e le opzioni di integrazione nelle app di engagement dei clienti Dynamics 365
+Percorso di apprendimento 2 - Modulo 2: Descrivere le attività condivise e le opzioni di integrazione nelle app di coinvolgimento dei clienti in Dynamics 365
 ========================
 
 ## Lab pratico 1.2. Gestire clienti e impegni
@@ -26,15 +26,15 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
 2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Account**.
 
-3. Sulla barra dei comandi selezionare il pulsante **Nuovo** .
+3. Nella barra dei comandi selezionare il pulsante **Nuovo** .
 
 4. Completare il record dell'account come segue:
 
-    - **Nome account:** Contoso Corporate
+    - **Nome account:** Contoso Corporate (iniziali)
 
-    - **Telefono:** 888-555-1234
+    - **Telefono:** 888-555-1234 (iniziali)
 
-    - **Indirizzo 1 Via 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **Indirizzo 1 Strada 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (Le tue iniziali)
 
     - **Indirizzo 1 Città:** Seattle
 
@@ -44,15 +44,15 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
 5. Sulla barra dei comandi selezionare il pulsante **Salva e chiudi** per salvare e chiudere il record dell'account.
 
-6. Nella barra dei comandi selezionare di nuovo il pulsante **Nuovo** nell'elenco di account.
+6. Nella barra dei comandi selezionare di nuovo il pulsante **Nuovo** nell'elenco degli account.
 
 7. Completare il record dell'account come segue:
 
-    - **Nome account:** Contoso North America
+    - **Nome account:** Contoso America del Nord (iniziali)
 
-    - **Telefono:** 888-555-4321
+    - **Telefono:** 888-555-4321 (Iniziali)
 
-    - **Indirizzo 1 – Via 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+    - **Indirizzo 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Your Initials)
 
     - **Indirizzo 1 Città:** Chicago
 
@@ -72,23 +72,23 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
     - **Nome:** Jackson
 
-    - **Cognome:** Anderson
+    - **Cognome:** Anderson (Le tue iniziali)
 
     - **Posizione:** CEO
 
-    - **Email:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **Email:** [Jackson (Le tue iniziali)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Selezionare il pulsante **Salva e chiudi**.
 
 14. Immediatamente sopra la griglia secondaria Contatti selezionare il campo **Contatto principale** e impostarlo sul contatto **Jackson Anderson** appena creato.
 
-15. Nella **sequenza temporale record** che si trova al centro della schermata selezionare **l'icona Segno più** per aggiungere un nuovo elemento.
+15. Nella **sequenza temporale record situata** al centro della schermata selezionare **l'icona segno più** per aggiungere un nuovo elemento.
 
 16. Nel menu visualizzato selezionare **Riunione.**
 
 17. Completare l'appuntamento come segue:
 
-    - **Oggetto:** Riunione con Jackson
+    - **Oggetto:** Incontro con Jackson (Le tue iniziali)
 
     - **Ora di inizio:** Domani alle 10:00
 

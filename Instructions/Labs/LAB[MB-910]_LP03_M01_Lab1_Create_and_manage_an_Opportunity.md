@@ -9,12 +9,11 @@ lab:
 Percorso di apprendimento 3 - Modulo 1: Esplorare Dynamics 365 Sales
 ========================
 
-## Esercitazione 3.1 - Creare e gestire un'opportunità in Dynamics 365 Sales 
+## Practice Lab 3.1 - Creare e gestire un'opportunità in Dynamics 365 Sales 
 
 ## Obiettivi
 
-Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane lavora per una società chiamata Jim per una società denominata **ABC Consulting**. Non solo si acquisisce le informazioni sui lead nel sistema, ma si sfruttano gli strumenti disponibili in Dynamics 365 Sales per qualificare il lead come opportunità e usarlo per chiudere l'opportunità.
-
+Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane lavora per una società denominata Jim per una società denominata **ABC Consulting**. Non solo si acquisisce le informazioni di lead nel sistema, ma si sfruttano gli strumenti disponibili in Dynamics 365 Sales per qualificare il lead come opportunità e usarlo attraverso la chiusura dell'opportunità.
 
 ## Configurazione del lab
 
@@ -22,48 +21,39 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
 ## Istruzioni
 
-
 1. Se non è già aperta, aprire l'applicazione **Hub delle vendite di Dynamics 365**.
 
 2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Lead**. 
 
-3. Nella visualizzazione **My Open Lead (Apri lead** ) selezionare il pulsante **New (Nuovo** ) per creare un nuovo lead. 
+3. Nella visualizzazione **Apri lead** selezionare il pulsante **Nuovo** per creare un nuovo lead. 
 
 4. Completare le informazioni **sui lead** come indicato di seguito:
 
-    - **Argomento:** Vuoi aggiornare le apparecchiature esistenti
+    - **Argomento:** Vuole aggiornare le proprie apparecchiature esistenti (iniziali)
 
     - **Nome:** Jane
 
-    - **Cognome:** Anderson (le tue iniziali)
+    - **Cognome:** Anderson (Le tue iniziali)
 
     - **Posizione:** CEO
 
-    - **Telefono ufficio:** 888-555-6767
+    - **Telefono aziendale:** 888-555-6767
 
-    - **Email:** [JaneA@sample.com](mailto:JaneA@sample.com)
+    - **Email:** JaneA(Your initials)@sample.com
 
-    - **Azienda:** ABC Consulting
+    - **Azienda:** Abc Consulting (Iniziali)
 
-    - **Via 1:** 1987 191<sup data-htmlnode="">st</sup> Ave N
+    - **Strada 1:** 1987 191st Ave N
 
     - **Città:** Fargo
 
     - **Stato/Provincia:** ND
 
-    - **Cap:** 58102
+    - **Cap/Codice postale:** 58102
 
-5. Selezionare il pulsante **Salva** per salvare il nuovo lead e lasciarlo aperto. 
+5. Nel processo **di vendita Lead to Opportunity** selezionare la fase **qualifica** .
 
-    - **Intervallo di tempo acquisti:** Trimestre corrente
-
-    - **Importo budget:** 50.000
-
-    - **Processo di acquisto:** Singolo
-
-6. Nel processo **di vendita lead-to-opportunity** selezionare la fase **Qualifica** .
-
-7. Completare come segue:
+6. Completare come segue:
 
     - **Intervallo di tempo di acquisto:** Immediato
 
@@ -71,53 +61,57 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
     - **Processo di acquisto:** Comitato
 
-8. Fare clic con il mouse sulla fase **Qualifica** per chiuderla. 
+7. Chiudere la fase **di qualificazione** . 
 
-9. Nel **comando ba**r selezionare il pulsante **Qualifica** . 
+8.  Nella **barra dei comandi** selezionare il pulsante **Qualifica** . 
 
-    Il sistema chiuderà il record **Lead** e creerà un nuovo record **Opportunity** . Si noti che il flusso del processo **aziendale Lead to Opportunity** è stato automaticamente avanzato alla fase **Di sviluppo** . 
+    **Nota:** Se non viene visualizzato il pulsante Qualifica, selezionare il pulsante **Altri comandi** (sembra tre punti verticali). 
 
-10. **Nell'intestazione opportunità** nella parte superiore del record selezionare la freccia giù accanto al campo **Proprietario**.
+    Il sistema chiuderà il record **Lead** e creerà un nuovo record **Opportunità** . Si noti che il flusso del processo **di business Lead to Opportunity** è stato automaticamente avanzato alla fase **Di sviluppo** . 
 
-11. Completare come segue:
+9. **Nell'intestazione opportunità** nella parte superiore del record selezionare la freccia giù accanto al campo **Proprietario**. 
+
+10. Completare come segue:
+
     - **Data chiusura prevista:** Two days from today (Due giorni da oggi)
 
-    - **Est Revenue:** $50.000
-        
-12. Nella griglia secondaria **Stakeholder** si noti che **Jane Anderson** (Your Initials) è già definita come stakeholder.
+    - **Ricavi est:** $ 50.000
+    
+11. Nella sotto griglia **Stakeholder** si noti che **Jane Anderson** (Your Initials) è già definito come stakeholder. 
 
-13. Nella griglia secondaria **Sales Team** selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Nuova connessione**.
+12. Nella sotto griglia **Sales Team** selezionare i **puntini di sospensione verticale**. Nel menu visualizzato selezionare **Nuova connessione**. 
 
-14. Cercare e selezionare il record dell'utente. Al termine, fare clic sul pulsante **Aggiungi** .
+13. Cercare e scegliere il record utente. Al termine, selezionare il pulsante **Aggiungi**. 
 
-15. Nella griglia secondaria Concorrenti selezionare i puntini di **sospensione verticali** (sembrano tre punti verticali). Nel menu visualizzato selezionare **Aggiungi concorrente esistente**.
+14. Nella griglia secondaria **Concorrenti** selezionare i **puntini di sospensione verticale** (sembrano tre punti verticali). Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
-16. Nella schermata **Cerca record** selezionare **Nuovo record** e quindi **Concorrenti**.
+15. Nella schermata **Cerca record** selezionare **Nuovo record** e quindi **Concorrenti**.
 
-17. Nella schermata **Creazione rapida concorrente** impostare il campo **Nome** su **Coho Technologies (Your Initials)**.
+16. Nel modulo **Creazione rapida: concorrente** impostare il campo **Nome** su **Coho Technologies (Your Initials)**.
 
-18. Selezionare il pulsante **Salva e chiudi**.
+17. Selezionare il pulsante **Salva e chiudi**.
 
-19. **Coho Technologies** sarà selezionato nella finestra Cerca record. Fare clic sul pulsante **Aggiungi** per completare l'aggiunta del concorrente.
+18. **Coho Technologies** sarà selezionato nella finestra Cerca record. Fare clic sul pulsante **Aggiungi** per completare l'aggiunta del concorrente.
 
-20. Nel flusso del processo **aziendale Lead to Opportunity** selezionare la fase **Sviluppo** . 
+19. Nel flusso **del processo di business Lead to Opportunity** selezionare la fase **Sviluppo** . 
 
-21. Completare come segue:
+20. Completare come segue: 
 
-    - **Identificare gli stakeholder:** Contrassegna completamento.
+    - **Identificare gli stakeholder**: completato 
 
-    - **Identificare i concorrenti:** Contrassegna completamento. 
+    - **Identificare i concorrenti**: completato 
 
-22. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**. 
+21. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**. 
 
-23. Nella fase **Proponi** contrassegna tutte e quattro le attività come **completate**. 
+22. Nella fase **Proposta** contrassegnare tutte e quattro le attività **come completate**. Selezionare **Fase successiva**.
 
-24. Nella fase **Chiudi** contrassegna tutte le attività come **completate**. 
+23. Nella fase **Chiudi** contrassegnare tutte le attività come **completate**. 
 
-25. Selezionare il pulsante **Fine** nel flusso del processo aziendale. 
+24. Selezionare il pulsante **Fine** nel flusso del processo aziendale. 
 
-26. Nella sequenza temporale selezionare il nuovo pulsante. Dopo aver completato il processo aziendale, è necessario chiudere l'opportunità. Sulla **barra dei comandi** dell'opportunità selezionare il pulsante **Chiudi come acquisita**.
+    Dopo aver completato il processo aziendale, è necessario chiudere l'opportunità.
 
-27. Nella **schermata Chiudi opportunità** fare clic sul pulsante **OK** per completare la chiusura del record opportunità.
+25. Sulla **barra dei comandi** dell'opportunità selezionare il pulsante **Chiudi come acquisita**.
 
+26. Nella finestra di dialogo **Chiudi opportunità** selezionare il pulsante **OK** per completare la chiusura del record di opportunità. 
 
