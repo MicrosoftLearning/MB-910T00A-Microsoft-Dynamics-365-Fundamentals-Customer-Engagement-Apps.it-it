@@ -9,11 +9,11 @@ lab:
 Percorso di apprendimento 3 - Modulo 1: Esplorare Dynamics 365 Sales
 ========================
 
-## Practice Lab 3.1 - Creare e gestire un'opportunità in Dynamics 365 Sales 
+## Esercitazione 3.1 - Creare e gestire un'opportunità in Dynamics 365 Sales 
 
 ## Obiettivi
 
-Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane lavora per una società denominata Jim per una società denominata **ABC Consulting**. Non solo si acquisisce le informazioni di lead nel sistema, ma si sfruttano gli strumenti disponibili in Dynamics 365 Sales per qualificare il lead come opportunità e usarlo attraverso la chiusura dell'opportunità.
+Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane lavora per una società chiamata Jim per una società denominata **ABC Consulting**. Non solo si acquisisce le informazioni sui lead nel sistema, ma si sfruttano gli strumenti disponibili in Dynamics 365 Sales per qualificare il lead come opportunità e usarlo per chiudere l'opportunità.
 
 ## Configurazione del lab
 
@@ -25,33 +25,33 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
 2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Lead**. 
 
-3. Nella visualizzazione **Apri lead** selezionare il pulsante **Nuovo** per creare un nuovo lead. 
+3. Nella visualizzazione **My Open Lead (Apri lead** ) selezionare il pulsante **New (Nuovo** ) per creare un nuovo lead. 
 
 4. Completare le informazioni **sui lead** come indicato di seguito:
 
-    - **Argomento:** Vuole aggiornare le proprie apparecchiature esistenti (iniziali)
+    - **Argomento:** Vuole aggiornare le apparecchiature esistenti (iniziali)
 
     - **Nome:** Jane
 
-    - **Cognome:** Anderson (Le tue iniziali)
+    - **Cognome:** Anderson (le tue iniziali)
 
     - **Posizione:** CEO
 
-    - **Telefono aziendale:** 888-555-6767
+    - **Telefono ufficio:** 888-555-6767
 
-    - **Email:** JaneA(Your initials)@sample.com
+    - **Email:** JaneA(Le tue iniziali)@sample.com
 
-    - **Azienda:** Abc Consulting (Iniziali)
+    - **Azienda:** ABC Consulting (iniziali)
 
-    - **Strada 1:** 1987 191st Ave N
+    - **Via 1:** 1987 191st Ave N
 
     - **Città:** Fargo
 
     - **Stato/Provincia:** ND
 
-    - **Cap/Codice postale:** 58102
+    - **Cap:** 58102
 
-5. Nel processo **di vendita Lead to Opportunity** selezionare la fase **qualifica** .
+5. Nel processo **di vendita lead-to-opportunity** selezionare la fase **Qualifica** .
 
 6. Completare come segue:
 
@@ -61,13 +61,13 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
     - **Processo di acquisto:** Comitato
 
-7. Chiudere la fase **di qualificazione** . 
+7. Chiudere il riquadro a comparsa **Fase di qualificazione** . 
 
-8.  Nella **barra dei comandi** selezionare il pulsante **Qualifica** . 
+8.  Sulla **barra dei comandi** selezionare il pulsante **Qualifica** . 
 
-    **Nota:** Se non viene visualizzato il pulsante Qualifica, selezionare il pulsante **Altri comandi** (sembra tre punti verticali). 
+    **Nota:** Se il pulsante Qualifica non viene visualizzato, selezionare il pulsante **Altri comandi** (è simile a tre punti verticali). 
 
-    Il sistema chiuderà il record **Lead** e creerà un nuovo record **Opportunità** . Si noti che il flusso del processo **di business Lead to Opportunity** è stato automaticamente avanzato alla fase **Di sviluppo** . 
+    Il sistema chiuderà il record **Lead** e creerà un nuovo record **Opportunity** . Si noti che il flusso del processo **aziendale Lead to Opportunity** è stato automaticamente avanzato alla fase **Di sviluppo** . 
 
 9. **Nell'intestazione opportunità** nella parte superiore del record selezionare la freccia giù accanto al campo **Proprietario**. 
 
@@ -75,35 +75,35 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
     - **Data chiusura prevista:** Two days from today (Due giorni da oggi)
 
-    - **Ricavi est:** $ 50.000
+    - **Est Revenue:** $50.000
     
-11. Nella sotto griglia **Stakeholder** si noti che **Jane Anderson** (Your Initials) è già definito come stakeholder. 
+11. Nella griglia secondaria **Stakeholder** si noti che **Jane Anderson** (Your Initials) è già definita come stakeholder. 
 
-12. Nella sotto griglia **Sales Team** selezionare i **puntini di sospensione verticale**. Nel menu visualizzato selezionare **Nuova connessione**. 
+12. Nella griglia secondaria **Sales Team** selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Nuova connessione**. 
 
 13. Cercare e scegliere il record utente. Al termine, selezionare il pulsante **Aggiungi**. 
 
-14. Nella griglia secondaria **Concorrenti** selezionare i **puntini di sospensione verticale** (sembrano tre punti verticali). Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
+14. Nella griglia secondaria **Concorrenti** selezionare i puntini di **sospensione verticali** (sembrano tre punti verticali). Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
 15. Nella schermata **Cerca record** selezionare **Nuovo record** e quindi **Concorrenti**.
 
-16. Nel modulo **Creazione rapida: concorrente** impostare il campo **Nome** su **Coho Technologies (Your Initials)**.
+16. Nel modulo **Creazione rapida: Concorrente** impostare il campo **Nome** su **Coho Technologies (Your Initials)**.
 
 17. Selezionare il pulsante **Salva e chiudi**.
 
 18. **Coho Technologies** sarà selezionato nella finestra Cerca record. Fare clic sul pulsante **Aggiungi** per completare l'aggiunta del concorrente.
 
-19. Nel flusso **del processo di business Lead to Opportunity** selezionare la fase **Sviluppo** . 
+19. Nel flusso del processo **aziendale Lead to Opportunity** selezionare la fase **Sviluppo** . 
 
 20. Completare come segue: 
 
-    - **Identificare gli stakeholder**: completato 
+    - **Identificare gli stakeholder**: completata 
 
-    - **Identificare i concorrenti**: completato 
+    - **Identificare i concorrenti**: completata 
 
 21. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**. 
 
-22. Nella fase **Proposta** contrassegnare tutte e quattro le attività **come completate**. Selezionare **Fase successiva**.
+22. Nella fase **Proponi** contrassegna tutte e quattro le attività come **completate**. Selezionare **Fase successiva**.
 
 23. Nella fase **Chiudi** contrassegnare tutte le attività come **completate**. 
 
@@ -113,5 +113,5 @@ Durante questo esercizio si creerà manualmente un lead per Jane Anderson. Jane 
 
 25. Sulla **barra dei comandi** dell'opportunità selezionare il pulsante **Chiudi come acquisita**.
 
-26. Nella finestra di dialogo **Chiudi opportunità** selezionare il pulsante **OK** per completare la chiusura del record di opportunità. 
+26. Nella finestra di dialogo **Chiudi opportunità** selezionare il pulsante **OK** per completare la chiusura del record opportunità. 
 
