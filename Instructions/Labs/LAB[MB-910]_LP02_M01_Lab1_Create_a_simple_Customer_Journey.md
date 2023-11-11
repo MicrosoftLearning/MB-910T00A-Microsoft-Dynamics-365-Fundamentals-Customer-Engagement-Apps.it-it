@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'Percorso di apprendimento 2 - Lab 2.1: Creare un semplice percorso clienti'
+  title: 'Percorso di apprendimento 2 - Lab 2.1: Creare un semplice percorso cliente'
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
   module: Explore Dynamics 365 Customer Insights
 ---
@@ -8,41 +8,41 @@ lab:
 Percorso di apprendimento 2 - Modulo 1: Esplorare Dynamics 365 Customer Insights
 ========================
 
-## Practice Lab 2.1 - Creare un semplice Percorso clienti
+## Practice Lab 2.1 - Creare un semplice percorso cliente
 
-**IMPORTANTE**: gli insegnanti, assicurarsi di aver completato tutti i passaggi di configurazione definiti nella sezione Dynamics 365 Customer Insights - Journeys della Guida di preparazione del training per assicurarsi che gli studenti possano completare correttamente questo lab.   
+**IMPORTANTE**: gli istruttori, assicurarsi di aver completato tutti i passaggi di configurazione definiti nella sezione Dynamics 365 Customer Insights - Journeys della Guida alla preparazione del trainer per assicurarsi che gli studenti possano completare correttamente questo lab.   
 
 ## Obiettivi
 
-Durante questo esercizio si noterà che Customer Journeys è un componente chiave in Dynamics 365 Customer Insights - Journeys. Si creeranno percorsi del cliente come base per qualsiasi iniziativa di marketing, al fine di orientare il percorso intrapreso da un cliente prende mentre interagisce con il processo di marketing dell'organizzazione. L'obiettivo del percorso, una volta completato, è la conversione in ricavi. 
+Durante questo esercizio si noterà che i percorsi dei clienti sono un componente chiave in Dynamics 365 Customer Insights - Journeys. I percorsi dei clienti verranno creati come base per qualsiasi impegno di marketing per guidare il percorso che un cliente prende durante l'interazione con il processo di marketing dell'organizzazione. L'obiettivo del percorso è che, una volta completato, esso generi in ricavi. 
 
 ## Configurazione del lab
 
-  - **Tempo stimato**: 10 minuti
+  - **Tempo** stimato: 10 minuti
 
 ## Istruzioni
-1. Usando lo spostamento a sinistra, selezionare **Percorsi cliente** nel gruppo **Di esecuzione marketing** .
+1. Usando il riquadro di spostamento a sinistra, selezionare **Customer journeys** (Percorsi cliente) nel gruppo Marketing Execution (Esecuzione** marketing).**
 
 2. Usando la barra dei comandi selezionare **+ Nuovo**.
 
-3. Nel popup **Modelli di Percorso clienti** selezionare **Ignora** per iniziare a creare un nuovo percorso da zero.
-4. Selezionare **Set audience (Imposta destinatari)** o, in alternativa, selezionare **+** . Verificare che il **tipo di origine** sia impostato su **Segmento** e selezionare il segmento **Contatti Fargo** . Il primo riquadro viene popolato con il nome del segmento e nel riquadro **Destinatari** vengono visualizzate le proprietà del segmento.
+3. **Nella finestra popup Modelli di percorso** del cliente selezionare **Ignora** per iniziare a creare un nuovo percorso da zero.
+4. Seleziona **Imposta gruppo di destinatari** (o, in alternativa, seleziona**+**). Verificare che Il **tipo di** origine sia impostato su **Segmento** e selezionare il **segmento Contatti** Fargo. Il primo riquadro viene popolato con il nome del segmento e il **riquadro Destinatari** visualizza le proprietà del segmento.
 
-5. Selezionare **+** nel canvas e quindi scegliere **Invia un messaggio e-mai** dal menu di scelta rapida.
+5. Seleziona **+** nel canvas, quindi seleziona **Invia un messaggio e-mail** dal menu contestuale.
 
-6. Nella sezione **Invia un messaggio di posta elettronica** selezionare **Esempio Email Messaggio**.
+6. **Nella sezione Invia un messaggio di posta elettronica selezionare Messaggio** di posta elettronica** di esempio**.
 
-7. Selezionare la scheda Generale nella parte superiore del record del percorso cliente. Immettere le informazioni seguenti nella scheda **Generale**:
+7. Selezionare la scheda Generale nella parte superiore del record del percorso del cliente. Immettere le informazioni seguenti nella **scheda Generale** :
 
-    - **Nome: Fargo** Customer Journey (Iniziali) 
+    - **Nome**: Percorso cliente Fargo (iniziali) 
 
-    - **Data e ora di inizio**: Immettere la data odierna
+    - **Data e ora** di inizio: immettere Data odierna
 
-    - **Data e ora di fine**: Un mese da oggi
+    - **Data e ora** di fine: un mese da oggi
 
-    - **Fuso orario**: Selezionare il fuso orario locale
+    - **Fuso orario**: selezionare il fuso orario locale
 
-8. Sulla barra dei comandi selezionare **Salva** per salvare il lavoro eseguito finora.
+8. Sulla barra dei comandi, seleziona **Salva** per salvare il lavoro fatto finora.
 
-9. A questo punto, il percorso è pronto per l'uso. Per avviare il percorso, pubblicarlo selezionando **Go live** sulla barra dei comandi.
+9. Il percorso è ora pronto per l'esecuzione. Per avviare il percorso, pubblicalo selezionando **Passa allo stato live** sulla barra dei comandi.
 
