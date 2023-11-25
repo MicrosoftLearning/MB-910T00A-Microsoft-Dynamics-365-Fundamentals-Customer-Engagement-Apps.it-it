@@ -14,71 +14,71 @@ Modulo 1: Esplorare Dynamics 365 Field Service
 
 **Nota per gli insegnanti:** *per consentire a questo lab di lavorare come previsto per gli studenti, è necessario completare alcuni passaggi di configurazione.  I passaggi di configurazione sono disponibili nella Guida alla preparazione del formatore MB-910T00A. I dati demo di Field Service sono disponibili qui: [https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/tree/master/Instructions/Labs]*
 
-  - **Tempo stimato**: 20 minuti
+  - **Tempo** stimato: 20 minuti
 
 ## Istruzioni
 
-1. Se non è già aperta, aprire l'applicazione **Dynamics 365 Field Service**.
+1. Se non è già aperto, aprire l'applicazione **Dynamics 365 Field Service** .
 
-2. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Casi**.
+2. Usando lo spostamento sul lato sinistro della schermata, selezionare **Case**.
 
-3. Sulla **barra dei comandi** selezionare il pulsante **Nuovo** per creare un nuovo record di caso.
+3. Sulla barra** dei **comandi selezionare il **pulsante Nuovo** per creare un nuovo record case.
 
-4. Completare il nuovo record del caso come segue:
+4. Completare il nuovo record case come indicato di seguito:
 
-    - **Titolo maiuscole/minuscole:** Riscaldamento delle unità di controllo (iniziali)
+    - **Titolo del case:** Riscaldamento unità di controllo (iniziali)
 
-    - **Cliente:** A. Datum Corporation
+    - **Cliente**: A. Datum Corporation
 
-    - **Origine:** Telefono
+    - **Origine**: Telefono
 
-5. Selezionare la scheda **Field Service**.
+5. Selezionare la **scheda Servizio campi**
 
-6. Impostare il campo **Tipo di evento imprevisto** su **Riscaldamento unità**.
+6. Impostare il **campo Tipo** di evento imprevisto su **Surriscaldamento** unità.
 
-7. Sulla **barra dei comandi** selezionare il pulsante **Salva e chiudi** per salvare e chiudere il record del caso.
+7. Sulla barra** dei **comandi selezionare il **pulsante Salva e Chiudi** per salvare e chiudere il record del case.
 
-Più avanti si tornerà al record del caso creato. Ora si esaminerà come creare manualmente il record di un ordine di lavoro.
+Si tornerà al record del caso creato in un secondo momento. Si esaminerà ora come creare manualmente un record dell'ordine di lavoro.
 
-8. Usando la struttura di spostamento a sinistra, selezionare **Ordini di lavoro**.
+8. Usando lo spostamento a sinistra, selezionare **Ordini** di lavoro.
 
-9. Sulla **barra dei comandi** selezionare il pulsante **Nuovo** per creare un nuovo ordine di lavoro.
+9. Sulla barra** dei **comandi selezionare il **pulsante Nuovo** per creare un nuovo ordine di lavoro.
 
-10. Completare i dettagli dell'ordine di lavoro come segue:
+10. Completare i dettagli dell'ordine di lavoro come indicato di seguito:
 
-    - **Account di servizio:** Adventure Works
+    - **Account del servizio:** Adventure Works
 
-    - **Listino prezzi:** Tariffe USA
+    - **Listino prezzi:** Tariffe fattura USA
 
-    - **Tipo di evento imprevisto primario:** Connessione di riga persa
+    - **Tipo di evento imprevisto primario:** Connessione linea persa
 
-11. Selezionare la scheda **Settings** (Impostazioni).
+11. Seleziona la scheda **Impostazioni**.
 
-12. Impostare il campo **Area di servizio** su **WA**.
+12. Impostare il **campo Territorio servizio** su **WA**.
 
-13. In **Preferenze** configurare le preferenze per il tempo come segue:
+13. In **Preferenze** configurare le preferenze relative all'ora come indicato di seguito:
 
-    - **Tempo da promessa:** Oggi alle 9:00
+    - **Ora dalla promessa:** oggi @ 9:00 AM
 
-    - **Tempo a promessa:** Oggi alle 11:00
+    - **Tempo promesso:** oggi @ 11:00
 
 14. Selezionare **Salva e Chiudi** per salvare le modifiche e uscire dal nuovo ordine di lavoro.
 
-In alternativa, per generare gli ordini di lavoro, è possibile eseguire l'escalation dei record dei casi. In questo esempio verrà eseguita l'escalation del case di surriscaldamento dell'unità di controllo creata in precedenza.
+Un altro modo per generare ordini di lavoro consiste nell'escalation dei record dei casi. In questo esempio verrà eseguita l'escalation del case di surriscaldamento dell'unità di controllo creata in precedenza.
 
-15. Usando la struttura di spostamento a sinistra, selezionare **Casi**.
+15. Usando il riquadro di spostamento a sinistra, selezionare **Case**.
 
-16. Aprire il caso **di surriscaldamento dell'unità di controllo** **(iniziali)** creato in precedenza.
+16. Aprire il caso di riscaldamento** **dell'unità **di controllo (iniziali)** creato in precedenza.
 
-17. Sulla **barra dei comandi** selezionare il pulsante **Converti in ordine di lavoro**.
+17. Sulla barra** dei **comandi selezionare il **pulsante Converti in ordine di** lavoro.
 
-18. Al termine della creazione dell'ordine di lavoro, fare clic sul pulsante **OK** nella schermata popup per visualizzare i dettagli dell'ordine di lavoro.
+18. Al termine della creazione dell'ordine di lavoro, fare clic sul **pulsante OK** nella schermata popup per visualizzare i dettagli dell'ordine di lavoro.
 
-19. Selezionare la scheda **Servizi** e verificare che i servizi **Inspect System Health** e **Inspect Range of Motion** siano stati aggiunti all'ordine di lavoro.
+19. Selezionare la **scheda Servizi** e verificare che i **servizi Inspect System Health** e **Inspect Range of Motion** siano stati aggiunti all'ordine di lavoro.
 
-**NOTA:** Se inizialmente non vengono visualizzati, premere F5 per aggiornare la schermata.
+**NOTA:** se inizialmente non vengono visualizzati, premere F5 per aggiornare la schermata.
 
-20. Selezionare la scheda **Attività servizio** e verificare che l'attività **Inspect Unit** sia stata aggiunta.
+20. Selezionare la **scheda Attività** servizio e verificare che l'attività **Ispeziona unità** sia stata aggiunta.
 
 I nuovi ordini di lavoro sono pronti per essere pianificati.
 
