@@ -1,62 +1,62 @@
 ---
 lab:
-  title: 'Percorso di apprendimento 4 - Lab 4.1: Creare e gestire casi in Dynamics 365 Customer Service'
+  title: 'Percorso di apprendimento 4: Lab 4.1: creare e gestire casi in Dynamics 365 Customer Service'
   learning path: Learn the fundamentals of Dynamics 365 Customer Service
   module: Explore Dynamics 365 Customer Service
 ---
 
-Percorso di apprendimento 4 - Modulo 1: Esplorare Dynamics 365 Customer Service
+Percorso di apprendimento 4: Modulo 1: esplorare Dynamics 365 Customer Service
 ========================
 
-## Practice Lab 4.1 - Creare e gestire casi in Dynamics 365 Customer Service
+## Lab pratico 4.1: creare e gestire casi in Dynamics 365 Customer Service
 
 ## Configurazione del lab
 
-  - **Tempo** stimato: 10 minuti
+  - **Tempo stimato:**: 10 minuti
 
 ## Istruzioni
 
-1. Se non è già aperto, aprire l'applicazione **Dynamics 365 Customer Service Hub** .
+1. Se non è già aperta, aprire l'applicazione **Hub del servizio Dynamics 365 Customer**.
 
-2. Usando lo spostamento a sinistra, selezionare **Case**.
+2. Dalla barra di spostamento a sinistra, selezionare **Casi**.
 
-3.  Sulla barra** dei **comandi selezionare il **pulsante + Nuovo** per creare un nuovo record case. 
+3.  Dalla **Barrai dei comandi**, selezionare il pulsante  **+ Nuovo** per creare un nuovo record del caso. 
 
-4.  Completare il nuovo record case come indicato di seguito:
+4.  Completare il nuovo record del caso come segue:
 
-    - **Titolo del caso:** l'elemento è arrivato danneggiato (le tue iniziali)
+    - **Titolo del caso:** l'articolo è arrivato danneggiato (proprie iniziali)
 
     - **Cliente:** George Li
 
 5.  Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto. 
 
-6.  Usando la **sequenza temporale**, selezionare l'icona **** Segno più per creare una nuova attività. 
+6.  Usando la **sequenza temporale**, selezionare l'**icona del Segno più** per creare una nuova attività. 
 
 7.  Dal menu visualizzato selezionare **Telefonata**.
 
-8.  Impostare il **campo Oggetto** su **Chiamare** restituito e lasciare invariati i campi rimanenti.
+8.  Impostare il campo **Oggetto** su **Richiamare** e lasciare invariati gli altri campi.
 
 9.  Seleziona il pulsante **Salva e chiudi**.
 
-10. **Nella Telefono su Processo** del caso selezionare la **fase Identificazione**.
+10. In **Processo telefono - caso**, selezionare la fase **Identificazione**.
 
 11. Selezionare il pulsante **Fase successiva** per avanzare alla fase di **Ricerca**.
 
-12. Selezionare la X** nella **** finestra a comparsa Della fase Di ricerca** in modo da poter continuare a lavorare. 
+12. Selezionare la **X** nella schermata **Ricerca** per continuare a lavorare. 
 
-13. **Nella sequenza temporale** selezionare il **menu Delle azioni** principali in verticale elipsis nel **Telefono Attività chiamata** creata in precedenza. Selezionare **Chiudi attività** per completare l'attività. 
+13. Nella **sequenza temporale**, selezionare il menu verticale ad elissi **Azioni principali** sull'attività **Chiamata telefonica** creata in precedenza. Selezionare **Chiudi attività** per completare l'attività. 
 
-14. Nella **schermata Chiudi Telefono Chiamata** selezionare il **pulsante Chiudi Telefono Chiamata**. 
+14. Nella schermata **Chiudi chiamata telefonica**, selezionare il pulsante **Chiudi chiamata telefonica**. 
 
-15. Verificare gli aggiornamenti dell'attività su **Chiuso**. 
+15. Verificare gli aggiornamenti dell'attività su **Chiuse**. 
 
-16. **Nella Telefono a Processo** case selezionare la **fase Ricerca** e selezionare il **pulsante Fase** successiva per passare alla **fase Di risoluzione**.
+16. In **Processo telefono - caso**, selezionare la fase **Ricerca**, quindi selezionare il pulsante **Fase successiva** per passare alla fase **Risoluzione**.
 
-17. **Nella fase Risolvi** selezionare il **pulsante Fine** per completare il processo aziendale. 
+17. Nella fase **Risoluzione**, selezionare il pulsante **Fine** per completare il flusso del processo aziendale. 
 
-18. Sulla barra dei **comandi per il record case selezionare il **pulsante Risolvi caso**.** 
+18. Nella **Barra dei comani** per il record del caso, selezionare il pulsante **Risolvi caso**. 
 
-19. Nella **finestra Risolvi caso** impostare il **campo Risoluzione** su **Articolo della Knowledge Base**. 
+19. Nella finestra **Risolvi caso**, impostare il campo **Risoluzione** su **Articolo della Knowledge Base**. 
 
-20. Selezionare il **pulsante Risolvi** per completare il processo. 
+20. Selezionare il pulsante **Risolvi** per completare il processo. 
 
