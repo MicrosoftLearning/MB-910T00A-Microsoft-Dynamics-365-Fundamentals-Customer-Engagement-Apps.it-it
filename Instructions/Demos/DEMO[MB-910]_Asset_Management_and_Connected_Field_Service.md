@@ -1,50 +1,50 @@
 ---
 demo:
-  title: 'Demo: Gestione degli asset e Connessione ed Field Service'
+  title: 'Demo: gestione degli asset e Connected Field Service'
   module: Learn the Fundamentals of Dynamics 365 Field Service
 ---
 
-# Demo: Gestione degli asset e Connessione ed Field Service
+# Demo: gestione degli asset e Connected Field Service
 
 ## Istruzioni
 
 I dispositivi IoT stanno diventando una parte più importante della vita quotidiana. 
 
-1. I clienti hanno spesso asset fisici che richiedono operazioni e manutenzione da eseguire.  Se l'asset è un dispositivo connesso, potrebbe includere sensori IoT che possono comunicare di nuovo le informazioni.  Gli asset vengono spesso installati inizialmente come parte di un ordine di lavoro.  Dopo l'installazione, i contratti di manutenzione preventiva possono essere aperti su di essi per fornire manutenzione pianificata per mantenere il lavoro dell'asset.  Dynamics 365 Field Service include funzionalità di gestione degli asset che funzionano a portata di mano con le funzionalità di Field Service Connessione ed.    
+1. I clienti hanno spesso asset fisici che richiedono operazioni e interventi di manutenzione da eseguire.  Se l'asset è un dispositivo connesso, potrebbe includere sensori IoT che possono comunicare di nuovo le informazioni.  Gli asset vengono spesso installati inizialmente come parte di un ordine di lavoro.  Dopo l'installazione, è possibile stipulare contratti di manutenzione preventiva per garantire una manutenzione pianificata che mantenga in funzione l'asset.  Dynamics 365 Field Service include funzionalità di gestione degli asset che collaborano insieme alla funzionalità Connected Field Service.    
 
-    - Creare un asset del cliente
+    - Creare asset cliente
 
-    - Esaminare le diverse opzioni disponibili per gestirle. 
+    - Esaminare le diverse opzioni disponibili per la loro gestione. 
 
-    - Esaminare la cronologia degli ordini di lavoro
+    - Esaminare in dettaglio la cronologia degli ordini di lavoro
 
-    - Spiegare come viene usata la posizione funzionale. 
+    - Spiegare come viene usata l'unità funzionale. 
 
-    - Descrivere il processo di Connessione un asset cliente a un dispositivo IoT. Usare gli asset dei clienti
+    - Descrivere il processo di connessione di un asset cliente a un dispositivo IoT. Utilizzare gli asset cliente
 
  
 
-2. Monitorare e gestire i dispositivi connessi al cliente in remoto
+2. Monitorare e gestire da remoto i dispositivi connessi del cliente
 
-    - Iniziare in IoT Central
+    - Iniziare da IoT Central
 
-        - Spiegare i concetti chiave, ad esempio Telemetria, Misurazioni, Eventi e così via. 
+        - Spiegare concetti chiave quali telemetria, misure, eventi, ecc. 
 
         - Usare gli oggetti visivi forniti per aiutare gli studenti a visualizzare il modo in cui vengono sfruttati gli eventi. 
 
-        - Usando un dispositivo simulato, attivare un evento come garbage IoT può essere pieno e deve essere prelevato. 
+        - Utilizzando un dispositivo simulato, attivare un evento come un cestino IoT pieno che deve essere rilevato. 
 
-        - Esaminare l'evento quando viene attivato l'evento. 
+        - Esaminare cosa succede quando viene attivato l'evento. 
 
-- Mentre i dati di telemetria e gli eventi vengono rilevati e segnalati nelle applicazioni IoT, ad esempio IoT Central, è probabile che l'esecuzione fisica dell'azione in risposta a tale evento si verifichi nelle applicazioni Dynamics 365, ad esempio Field Service. 
+- Mentre i dati di telemetria e gli eventi vengono tracciati e segnalati nelle applicazioni IoT come IoT Central, l'esecuzione fisica dell'azione in risposta a quell'evento avverrà probabilmente in applicazioni Dynamics 365 come Field Service. 
 
-    - Passare a Connessione ed Field Service
+    - Passare a Connected Field Service
 
-        1. Mostrare in che modo i dispositivi IoT si riflettono in Connessione ed Field Service
+        1. Mostrare in che modo i dispositivi IoT si riflettono in Connected Field Service
 
         2. Mostrare come vengono visualizzati gli avvisi IoT nell'applicazione
 
-            - Usare il flusso del processo aziendale degli avvisi IoT per la risoluzione degli avvisi IoT
+            - Usare il flusso del processo aziendale degli avvisi IoT per la risoluzione di tali avvisi
 
 3. Avviare un comando IoT dall'avviso
 
@@ -54,18 +54,18 @@ I dispositivi IoT stanno diventando una parte più importante della vita quotidi
 
     1. Tentare di risolvere il caso
 
-    2. Converti caso in ordine di lavoro
+    2. Convertire il caso in ordine di lavoro
 
 - Casi proattivi
 
-    - Mostra la visualizzazione dei dettagli del sensore e identifica i modelli precedenti. 
+    - Mostrare la visualizzazione dei dettagli del sensore e identificare i modelli precedenti. 
 
-        1. Evidenziare i campi chiave delle metriche nel dispositivo
+        1. Evidenziare i campi chiave delle metriche sul dispositivo
 
-        2. Mostra quando e come i sensori hanno avuto esito negativo in passato 
+        2. Mostrare quando e come i sensori hanno avuto esito negativo in passato 
 
-- Comunicare con un ordine di lavoro generato automaticamente, in base alla sostituzione di un sensore Attivare la creazione automatica dei casi in base alla sostituzione del sensore consigliata. 
+- Esaminare la generazione automatica di un ordine di lavoro in base alla sostituzione di un sensore Attivare la creazione automatica di un caso in base alla sostituzione del sensore consigliata. 
 
-    1. Mostra l'ordine di lavoro creato 
+    1. Mostrare l'ordine di lavoro creato 
 
-    2. Mostra come l'ordine di lavoro pianificato con RSO
+    2. Mostrare come l'ordine di lavoro viene programmato con RSO

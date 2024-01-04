@@ -8,15 +8,15 @@ demo:
 
 ## Istruzioni
 
-Dynamics 365 Sales Insights, è una suite di strumenti di intelligenza artificiale che aiutano le organizzazioni a comprendere meglio i clienti, gestire e eseguire in modo proattivo le attività di vendita e puntare in modo più efficace alle opportunità di vendita. 
+Dynamics 365 Sales Insights è una suite di strumenti di intelligenza artificiale che aiutano le organizzazioni a comprendere meglio i propri clienti, a gestire ed eseguire in modo proattivo le attività di vendita e a indirizzare in modo più efficace le opportunità di vendita. 
 
-. Mantenere relazioni integre con Sales Insights
+. Mantenere relazioni sane con Sales Insights
 
 - Gestire l'integrità della relazione tra account
 
-    - Aprire ed esaminare Account in base all'integrità complessiva delle relazioni.
+    - Aprire ed esaminare gli account in base all'integrità complessiva delle relazioni.
 
-    - Aprire un record account
+    - Aprire un record dell'account
 
         - Esaminare le statistiche sull'integrità delle relazioni
 
@@ -26,11 +26,11 @@ Dynamics 365 Sales Insights, è una suite di strumenti di intelligenza artificia
 
     - Aprire un contatto dall'organizzazione
 
-    - Mostra come viene calcolato lo stato di integrità delle relazioni anche a livello di contatto.
+    - Mostrare come viene calcolato lo stato di integrità delle relazioni anche a livello di contatto.
 
-    - Chiamare le attività acquisite automaticamente dall'applicazione. Si noti come questo può essere facilmente convertito in attività effettive. 
+    - Richiamare le attività acquisite automaticamente dall'applicazione. Notare come possano essere facilmente convertite in attività effettive. 
 
-    - Poiché il punteggio del cliente sta scivolando, contattare il cliente tramite un messaggio di posta elettronica. Mostra la possibilità di tenere traccia delle informazioni nel messaggio di posta elettronica, ad esempio quando viene aperto, inoltrato e così via. 
+    - Poiché il punteggio del cliente si sta abbassando, è opportuno contattare il cliente tramite un messaggio e-mail. Mostrare la possibilità di tenere traccia delle informazioni nel messaggio e-mail, ad esempio quando viene aperto, inoltrato e così via. 
 
     - Esaminare gli allegati condivisi. 
 
@@ -40,15 +40,15 @@ Dynamics 365 Sales Insights, è una suite di strumenti di intelligenza artificia
 
     - Dal record dell'account, esaminare l'elenco delle opportunità aperte
 
-    - Mostra in che modo le diverse opportunità elencate hanno punteggi associati
+    - Mostrare come le diverse opportunità elencate abbiano dei punteggi associati
 
     - Aprire un'opportunità
 
-        - Chiamare l'integrità delle relazioni associata all'opportunità
+        - Richiamare l'integrità delle relazioni associata all'opportunità
 
-        - Scopri quali sono le interazioni pianificate successive, 
+        - Scoprire quali sono le interazioni pianificate successive. 
 
-        - Avviare un messaggio di posta elettronica con il cliente per l'archiviazione e vedere come stanno andando le cose. 
+        - Avviare un messaggio e-mail con il cliente per verificare come stanno andando le cose. 
 
-        - Visualizzare le statistiche rilevate dal messaggio di posta elettronica 
+        - Visualizzare le statistiche monitorate dal messaggio e-mail 
 

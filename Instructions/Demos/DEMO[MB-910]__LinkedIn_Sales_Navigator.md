@@ -1,43 +1,43 @@
 ---
 demo:
-  title: 'Demo: LinkedIn Sales Navigator'
+  title: "Demo:\_LinkedIn Sales Navigator"
   module: Learn the Fundamentals of Dynamics 365 Sales
 ---
 
-# Demo: LinkedIn Sales Navigator
+# Demo: LinkedIn Sales Navigator
 
 ## Istruzioni
 
-Le funzionalità di prospecting di LinkedIn Sales Navigator completano le funzionalità di Customer Engagement di Dynamics 365. Con Lo strumento di navigazione vendite, è possibile cercare facilmente account e record di contatto in LinkedIn, sfruttare la rete LinkedIn esistente per facilitare le presentazioni, tenere traccia delle attività che si svolgono in LinkedIn in Dynamics 365 
+Le funzionalità esplorative di LinkedIn Sales Navigator completano le funzionalità di Customer Engagement di Dynamics 365. Con Sales Navigator, è possibile cercare facilmente i record di account e contatti in LinkedIn, sfruttare la rete LinkedIn esistente per facilitare le presentazioni, monitorare le attività che si svolgono in LinkedIn in Dynamics 365 
 
 1. Aprire LinkedIn Sales Navigator. 
 
-2. Con LinkedIn Sales Navigation è possibile individuare facilmente le prospettive e l'organizzazione in base alle informazioni importanti per l'organizzazione. 
+2. Con LinkedIn Sales Navigation, è possibile individuare facilmente i potenziali clienti e le organizzazioni in base alle informazioni importanti per la propria azienda. 
 
     - Eseguire una ricerca avanzata
 
-    - Modificare i criteri per definire come destinazione un settore specifico
+    - Modificare i criteri per individuare un settore specifico
 
-    - Modificare i criteri per specificare come destinazione un ruolo specifico
+    - Modificare i criteri per individuare un ruolo specifico
 
-    - Modificare i criteri per specificare come destinazione un'area specifica. 
+    - Modificare i criteri per individuare una regione specifica 
 
-    - Visualizzare i risultati e visualizzare il modo in cui i risultati variano in base all'uso della rete. 
+    - Visualizzare i risultati e mostrare come questi variano in base all'uso della rete. 
 
-    - Salvare un account come prospettiva nell'applicazione. 
+    - Salvare un account come potenziale cliente nell'applicazione. 
 
-3. La funzionalità LinkedIn Sales Navigator può essere facilmente inclusa nei record dynamics 365 Sales per aiutare i venditori a sfruttare in modo più efficace queste informazioni durante il processo di vendita. 
+3. La funzionalità di LinkedIn Sales Navigator può essere facilmente inclusa nei record di Dynamics 365 Sales per aiutare i venditori a sfruttare in modo più efficace queste informazioni durante il processo di vendita. 
 
-    - Aprire un record account
+    - Aprire un record dell'account
 
-        - Chiamare le informazioni di LinkedIn Sales Navigator visualizzate nel record
+        - Richiamare le informazioni di LinkedIn Sales Navigator visualizzate nel record
 
-        - Mostra come interagire con le informazioni e ricercare l'account. 
+        - Mostrare come interagire con le informazioni e ricercare l'account. 
 
-- Aprire un record contatto
+- Apri un record del contatto
 
     - Visualizzare le informazioni di LinkedIn Sales Navigator
 
-    - Chiamare le attività di Sales Navigator visualizzate nella sequenza temporale dei record
+    - Richiamare le attività di Sales Navigator visualizzate nella sequenza temporale dei record
 
-    - Parlare dell'immagine contatto da aggiornare automaticamente. 
+    - Informazioni sull'immagine del contatto aggiornata automaticamente. 

@@ -10,26 +10,26 @@ demo:
 
 1. Passare a [https://CSI.ai.dynamics.com](https://csi.ai.dynamics.com/) 
 
-2. Quando si avvia l'applicazione per la prima volta, verranno fornite informazioni dettagliate relative agli argomenti. Le informazioni possono essere filtrate per visualizzare informazioni o periodi di tempo diversi, ad esempio 24 ore, 7 o 30 giorni. 
+2. Quando si avvia l'applicazione per la prima volta, verranno fornite informazioni dettagliate relative agli argomenti di interesse. Le informazioni possono essere filtrate per mostrare informazioni o periodi di tempo diversi, ad esempio 24 ore, 7 o 30 giorni. 
 
-    - Chiamare che gli argomenti vengono creati in base a tutti i diversi titoli di maiuscole e minuscole nel repository del caso. 
+    - Tenere presente che gli argomenti vengono creati in base a tutti i diversi titoli di casi nell'archivio dei casi. 
 
     - Parlare del motivo per cui questo è importante e quali informazioni fornisce all'utente. 
 
-3. Usare Customer Insights per eseguire azioni
+3. Utilizzare Customer Insights per eseguire azioni
 
-    - Visualizzare le informazioni correlate al caso diverso e al caso emergente
+    - Mostrare i diversi casi e le informazioni emergenti relative ai casi
 
     - Mostrare come filtrare e ordinare le informazioni per approfondire gli elementi specifici. 
 
-    - Una volta ordinato, si può vedere che quasi tra il 15 e il 20% dei casi erano correlati all'uso di un codice promozionale. Negli ultimi trenta giorni, la soddisfazione complessiva dei clienti ha iniziato a diminuire leggermente. 
+    - Dopo l'ordinamento, è possibile vedere che tra il 15 e il 20% circa dei casi erano correlati all'uso di un codice promozionale. Negli ultimi trenta giorni, la soddisfazione complessiva dei clienti ha iniziato a diminuire leggermente. 
 
-    - Usando i filtri del periodo di tempo nella parte superiore, modificare l'ora con periodo in **Ultimi 7** giorni. Si può notare che l'argomento è in tendenza verso il basso e la soddisfazione dei clienti è diminuita di **quasi il 2%.** 
+    - Usando i filtri del periodo di tempo nella parte superiore, modificare il periodo in **Ultimi 7** giorni. Si può notare che l'argomento è in tendenza verso il basso e la soddisfazione dei clienti è diminuita di **quasi il 2%.** 
 
-    - Impostare Periodo di tempo su Ultime 24 ore. Nelle ultime 24 ore il punteggio è diminuito ancora di più. 
+    - Modificare il periodo di tempo in Ultime 24 ore. Nelle ultime 24 ore il punteggio è diminuito ulteriormente. 
 
-    - Possiamo vedere dall'oggetto visivo CSAT, la maggior parte delle disossazioni dei clienti sembra centrata su Twitter e Facebook. 
+    - Dalla visualizzazione della CSAT è possibile vedere che la maggior parte delle insoddisfazioni dei clienti sembra centrata su Twitter e Facebook. 
 
-    - Tornare ai **driver di soddisfazione del cliente, selezionare **Dettagli** sull'uso dell'argomento del codice promozionale** del cliente. 
+    - Tornando ai driver di **soddisfazione del cliente**, selezionare **Dettagli** sull'uso dell'argomento del codice promozionale del cliente. 
 
-4. Creare un argomento in Power Virtual Agents in base alle informazioni dettagliate sui clienti. 
+4. Creare un argomento in Power Virtual Agents in base alle informazioni di Customer Insights. 
