@@ -1,18 +1,18 @@
 ---
 demo:
-  title: 'Demo: Uso di Dynamics 365 Sales'
+  title: 'Demo: Usare Dynamics 365 Sales'
   module: Learn the Fundamentals of Dynamics 365 Sales
 ---
 
-# Demo: Uso di Dynamics 365 Sales
+# Demo: Usare Dynamics 365 Sales
 
 ## Istruzioni
 
-Dynamics 365 Sales è una soluzione di vendita adattiva che consente al team di vendita di vendere in modo più efficace. Questa demo consentirà agli utenti di visualizzare l'applicazione a un livello generale. 
+Dynamics 365 Sales è una soluzione di vendita adattiva che consente al team di vendita di vendere in modo più efficace. Questa demo consentirà agli utenti di vedere l'applicazione a un livello generale. 
 
-1. Passare a e aprire Dynamics 365 Sales Hub
+1. Passare all'app Hub delle vendite Dynamics 365 Sales e aprirla.
 
-2. Dynamics 365 for Sales consente di gestire e gestire facilmente le relazioni con i clienti.
+2. Dynamics 365 for Sales consente di gestire e mantenere facilmente le relazioni con i clienti.
 
     - Mostrare come i diversi dashboard forniscono le informazioni necessarie per completare gli impegni giornalieri. 
 
@@ -28,7 +28,7 @@ Dynamics 365 Sales è una soluzione di vendita adattiva che consente al team di 
 
 - Sfruttare lo scanner di biglietti da visita per creare nuovi lead
 
-3. Sfruttando l'intelligenza artificiale, l'organizzazione può prendere decisioni più informate relative ai clienti, gestire e gestire meglio le relazioni e puntare in modo più efficace alle opportunità di vendita. 
+3. Sfruttando l'intelligenza artificiale, l'organizzazione può prendere decisioni più informate relative ai clienti, gestire e mantenere meglio le relazioni e identificare in modo più efficace le opportunità di vendita. 
 
     - Passare allo stato delle relazioni con l'account
 
@@ -36,7 +36,7 @@ Dynamics 365 Sales è una soluzione di vendita adattiva che consente al team di 
 
         - Mostrare le informazioni disponibili a livello di opportunità
 
-- Aprire un lead e esaminare il punteggio dei lead
+- Aprire un lead ed esaminare il punteggio lead
 
 4. Gestione delle opportunità
 

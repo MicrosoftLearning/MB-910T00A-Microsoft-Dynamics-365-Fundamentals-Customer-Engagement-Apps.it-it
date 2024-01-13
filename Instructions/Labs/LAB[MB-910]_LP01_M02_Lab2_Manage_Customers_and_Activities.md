@@ -5,22 +5,22 @@ lab:
   module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
-Percorso di apprendimento 2 - Modulo 2: Descrivere le attività condivise e le opzioni di integrazione nelle app Dynamics 365 customer engagement
+Percorso di apprendimento 2 - Modulo 2: Descrivere le attività condivise e le opzioni di integrazione nelle app di engagement dei clienti di Dynamics 365
 ========================
 
-## Lab pratico 1.2. Gestire clienti e impegni
+## Lab pratico 1.2.- Gestire clienti e attività
 
 ## Obiettivi
 
-In questo esercizio si useranno record comuni che vengono sfruttati da tutte le app di coinvolgimento dei clienti di prima parte. 
+In questo esercizio si utilizzeranno record comuni sfruttati da tutte le app di coinvolgimento dei clienti proprietarie. 
 
 ## Configurazione del lab
 
-  - **Tempo** stimato: 15 minuti
+  - **Tempo stimato:**: 15 minuti.
 
 ## Istruzioni
 
-In questo esercizio si useranno record comuni che vengono sfruttati da tutte le app di coinvolgimento dei clienti di prima parte. 
+In questo esercizio si utilizzeranno record comuni sfruttati da tutte le app di coinvolgimento dei clienti proprietarie. 
 
 1. Se non è già aperta, aprire l'applicazione **Hub delle vendite di Dynamics 365**.
 
@@ -30,11 +30,11 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
 4. Completare il record dell'account come segue:
 
-    - **Nome account:** Contoso Corporate (iniziali)
+    - **Nome dell'account:** Contoso Corporate (proprie iniziali)
 
-    - **Telefono:** 888-555-1234 (iniziali)
+    - **Telefono:** 888-555-1234 (proprie iniziali)
 
-    - **Indirizzo 1 Strada 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (Tue iniziali)
+    - **Indirizzo 1 Via 1:** 191 181<sup data-htmlnode=""></sup> N. (proprie iniziali)
 
     - **Città Indirizzo 1:** Seattle
 
@@ -42,17 +42,17 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
     - **CAP Indirizzo 1**: 98101
 
-5. Sulla barra dei comandi selezionare il pulsante **Salva e chiudi** per salvare e uscire dal record dell'account.
+5. Dalla barra dei comandi, selezionare il pulsante **Salva e chiudi** per salvare e chiudere il record dell'account.
 
 6. Sulla barra dei comandi, nell'elenco degli account, selezionare di nuovo il pulsante **Nuovo**.
 
 7. Completare il record dell'account come segue:
 
-    - **Nome account:** Contoso America del Nord (iniziali)
+    - **Nome dell'account**: Contoso North America (proprie iniziali)
 
-    - **Telefono:** 888-555-4321 (iniziali)
+    - **Telefono:** 888-555-4321 (proprie iniziali)
 
-    - **Indirizzo 1 Strada 1**: 187 11<sup data-htmlnode="">th</sup> ST N (le tue iniziali)
+    - **Indirizzo 1 Via 1**: 187 11<sup data-htmlnode=""></sup> N. (proprie iniziali)
 
     - **Città Indirizzo 1**: Chicago
 
@@ -60,7 +60,7 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
     - **CAP Indirizzo 1**: 60176
 
-8. Impostare il **campo Account** padre sull'account **aziendale** Contoso creato in precedenza.
+8. Impostare il campo **Account padre** sull'account **Contoso Corporate** creato in precedenza.
 
 9. Fare clic sul pulsante **Salva** per salvare l'account e lasciarlo aperto.
 
@@ -72,11 +72,11 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
     - **Nome**: Jackson
 
-    - **Cognome:** Anderson (le tue iniziali)
+    - **Cognome:** Anderson (proprie iniziali)
 
     - **Posizione:** CEO
 
-    - **Email:** [Jackson (le tue iniziali)@contososample.com](mailto:Jackson@contososample.com)
+    - **E-mail:**[Jackson (proprie iniziali)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Selezionare il pulsante **Salva e chiudi**.
 
@@ -84,17 +84,17 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
 15. Nella **Sequenza temporale record** al centro dello schermo selezionare l'**Icona del segno più** per aggiungere un nuovo elemento.
 
-16. Dal menu visualizzato selezionare **Riunione.**
+16. Nel menu visualizzato, selezionare **Riunione**.
 
 17. Completare l'appuntamento come segue:
 
-    - **Oggetto:** Incontro con Jackson (le tue iniziali)
+    - **Oggetto:** riunione con Jackson (proprie iniziali)
 
-    - **Ora di inizio**: Domani alle 10:00
+    - **Ora di inizio:** oggi alle 14:00
 
-    - **Ora di fine**: Domani alle 11:00
+    - **Ora di fine:** oggi alle 14:30
 
-18. Selezionare il pulsante **Salva e chiudi**.
+18. Seleziona il pulsante **Salva e chiudi**.
 
 19. Selezionare **Salva e chiudi** per salvare e chiudere l'account.
 
@@ -102,7 +102,7 @@ In questo esercizio si useranno record comuni che vengono sfruttati da tutte le 
 
 21. Selezionare il collegamento **Apri appuntamento**.
 
-22. Con il record di appuntamenti aperto, nella barra** dei **comandi selezionare il **pulsante Contrassegna completamento** per completare l'appuntamento.
+22. Con il record dell'appuntamento aperto, dalla **Barra dei comandi**, selezionare il pulsante **Contrassegna come completato** per terminare l'appuntamento.
 
 23. Selezionare il pulsante **Salva e chiudi** per tornare al record dell'account.
 

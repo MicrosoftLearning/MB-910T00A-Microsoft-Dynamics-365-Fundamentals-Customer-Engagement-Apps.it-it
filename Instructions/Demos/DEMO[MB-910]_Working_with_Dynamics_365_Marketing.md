@@ -1,16 +1,16 @@
 ---
 demo:
-  title: 'Demo: Uso di Dynamics 365 Customer Insights'
+  title: 'Demo: utilizzare Dynamics 365 Customer Insights'
   module: Learn the Fundamentals of Dynamics 365 Customer Insights
 ---
 
-# Demo: Uso di Dynamics 365 Customer Insights
+# Demo: utilizzare Dynamics 365 Customer Insights
 
 ## Istruzioni
 
-Dynamics 365 Customer Insights : i percorsi consentono all'organizzazione di assumere il controllo di tutti i diversi aspetti del marketing, dalla distribuzione e all'esecuzione di campagne alla gestione degli eventi. 
+Dynamics 365 Customer Insights - Percorsi consente all'organizzazione di assumere il controllo di tutti i diversi aspetti del marketing, dalla consegna ed esecuzione delle campagne alla gestione degli eventi. 
 
-1. Passare a e aprire Dynamics 365 Customer Insights - Journeys.
+1. Passare a e aprire Dynamics 365 Customer Insights - Percorsi.
 
 - Dynamics 365 Dynamics 365 Customer Insights - Percorsi consente di identificare e indirizzare facilmente clienti specifici in base a dati demografici personalizzati. 
 
@@ -20,13 +20,13 @@ Dynamics 365 Customer Insights : i percorsi consentono all'organizzazione di ass
 
     - Gestire e qualificare i lead per le vendite
 
-- Usare segmenti di clienti
+- Utilizzare i segmenti del cliente
 
     - Aprire la finestra di progettazione del modello di punteggio lead
 
     - Esaminare le condizioni e le azioni
 
-- Gestire i percorsi dei clienti 
+- Gestire i percorsi del cliente 
 
     - Aprire i percorsi del cliente e mostrare come aprirne uno esistente 
 
@@ -36,7 +36,7 @@ Dynamics 365 Customer Insights : i percorsi consentono all'organizzazione di ass
 
     - Aprire la finestra di progettazione di percorsi del cliente
 
-    - La definizione della modalità di interazione dei clienti può essere modificata facilmente, creando e definendo le attività che verranno usate nel percorso, nonché il modo in cui verrà usata l'attività. 
+    - È possibile modificare facilmente la definizione dell'interazione con i clienti, creando e definendo le attività che verranno utilizzate nel percorso, nonché come e quando verranno usate. 
 
             - Add an Activity to the Journey.
 
@@ -44,17 +44,17 @@ Dynamics 365 Customer Insights : i percorsi consentono all'organizzazione di ass
 
             - Save and Publish Customer Journey
 
-- In base al percorso creato, viene fornita un'esperienza di marketing mirata in base all'utente e al percorso scelto durante l'interazione con i contenuti di marketing dell'organizzazione. 
+- In base al percorso creato, viene offerta un'esperienza di marketing mirata a seconda del cliente e del percorso scelto per interagire con il contenuto di marketing dell'organizzazione. 
 
-    - Passare a un cliente tipo e aprire un'e-mail di marketing predefinita inviata. Esaminare e spiegare come sfruttare i diversi contenuti nel messaggio di posta elettronica. 
+    - Passare a un cliente tipo e aprire un'e-mail di marketing predefinita inviata. Esaminare e spiegare come possono essere sfruttati i diversi contenuti del messaggio e-mail. 
 
     - Fare clic su un collegamento dell'e-mail ed esplorare la pagina Web di destinazione. 
 
     - Interagire con i contenuti della pagina e selezionare un collegamento. 
 
-- Tornare al percorso del cliente e dimostrare di tenere traccia dei dati e delle informazioni sui report disponibili. 
+- Tornare al percorso del cliente e dimostrare il monitoraggio dei dati e delle informazioni di reporting disponibili. 
 
-2. Gestire e registrare gli eventi dal portale di gestione degli eventi
+2. Gestire e registrarsi agli eventi dal portale di gestione eventi
 
     - Aprire il portale di marketing
 
@@ -64,7 +64,7 @@ Dynamics 365 Customer Insights : i percorsi consentono all'organizzazione di ass
 
     - Gestire sessioni e pianificazioni
 
-- Gestire sessioni di eventi, relatori e sedi logistiche
+- Gestire le sessioni dell'evento, i relatori e la logistica delle sedi
 
     - Creare un evento
 

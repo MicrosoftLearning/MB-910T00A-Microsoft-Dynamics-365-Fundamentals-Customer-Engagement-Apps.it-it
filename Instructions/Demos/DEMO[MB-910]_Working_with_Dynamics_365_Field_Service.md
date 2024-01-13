@@ -1,10 +1,10 @@
 ---
 demo:
-  title: 'Demo: Uso di Dynamics 365 Field Service'
+  title: 'Demo: utilizzare Dynamics 365 Field Service'
   module: Learn the Fundamentals of Dynamics 365 Field Service
 ---
 
-# Demo: Uso di Dynamics 365 Field Service
+# Demo: utilizzare Dynamics 365 Field Service
 
 ## Istruzioni
 
@@ -12,7 +12,7 @@ Con Dynamics 365 Field Service, l'organizzazione può offrire esperienze straord
 
 1. Aprire Dynamics 365 Field Service 
 
-2. Quando si accede per la prima volta al dispatcher dell'applicazione e ai responsabili di Field Service sono disponibili tutte le informazioni necessarie a portata di mano. 
+2. Quando si accede per la prima volta all'applicazione, i dispatcher e i manager di Field Service avranno a portata di mano tutte le informazioni di cui hanno bisogno. 
 
     - Mostrare una brevissima panoramica delle aree e delle funzionalità dell'applicazione, tra cui: 
 
@@ -26,7 +26,7 @@ Con Dynamics 365 Field Service, l'organizzazione può offrire esperienze straord
 
         - Esaminare la gestione delle risorse
 
-3. Demo generale del ciclo di vita degli ordini di lavoro
+3. Demo del ciclo di vita dell'ordine di lavoro di alto livello
 
     - Parlare della creazione del lavoro ed evidenziare le diverse opzioni per la creazione degli ordini di lavoro
 
@@ -34,7 +34,7 @@ Con Dynamics 365 Field Service, l'organizzazione può offrire esperienze straord
 
     - Mostrare come usare Assistente di pianificazione per pianificare un ordine di lavoro
 
-4. Gestione delle pianificazioni 
+4. Gestire le pianificazioni 
 
     - Aprire la scheda di pianificazione e illustrare i filtri e la navigazione di base
 
