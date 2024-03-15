@@ -2,10 +2,10 @@
 lab:
   title: 'Percorso di apprendimento 2: Lab 2.1: Creare un percorso del cliente semplice'
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
-  module: Explore Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights - Journeys
 ---
 
-Percorso di apprendimento 2: Modulo 1: Esplorare Dynamics 365 Customer Insights
+Percorso di apprendimento 2 - Modulo 1: Esplorare Dynamics 365 Customer Insights - Percorsi
 ========================
 
 ## Lab pratico 2.1: Creare un percorso del cliente semplice
@@ -21,28 +21,32 @@ Durante questo esercizio si noterà che i percorsi dei clienti sono un component
   - **Tempo stimato:**: 10 minuti
 
 ## Istruzioni
-1. Usando la barra di navigazione sulla sinistra, selezionare **Percorsi del cliente** nel gruppo **Esecuzione di marketing**.
+1. Usando lo spostamento a sinistra, selezionare **Percorsi** nel **gruppo Engagement** .
 
-2. Usando la barra dei comandi, selezionare **+ Nuovo**.
+1. Usando la barra dei comandi, selezionare **+ Nuovo percorso**.
 
-3. Nella finestra popup **Modelli di percorso del cliente**, selezionare **Salta** per iniziare a creare un nuovo percorso da zero.
-4. Seleziona **Imposta gruppo di destinatari** (o, in alternativa, seleziona**+**). Verificare che **Tipo di origine** sia impostato su **Segmento** e selezionare il segmento **Contatti Fargo**. Il primo riquadro viene popolato con il nome del segmento e il riquadro **Gruppo di destinatari** mostra le proprietà del segmento.
+1. Selezionare **Ignora e crea da zero**
 
-5. Seleziona **+** nel canvas, quindi seleziona **Invia un messaggio e-mail** dal menu contestuale.
+1. **Nella finestra popup Crea percorso con Copilot** selezionare **Ignora** **e crea da zero**.
 
-6. Nella sezione **Invia un'e-mail**, selezionare **Messaggio e-mail di esempio**.
+1. Nel campo Nome percorso immettere Fargo Customer Journey (Iniziali) 
 
-7. Selezionare la scheda Generale nella parte superiore del record del percorso del cliente. Nella scheda **Generali**, immettere le seguenti informazioni:
+1. In Scegli il tipo di viaggio impostare su Segmento e selezionare il **segmento Contatti** Fargo. Il primo riquadro viene popolato con il nome del segmento e il riquadro **Gruppo di destinatari** mostra le proprietà del segmento.
 
-    - **Nome**: Percorso del cliente Fargo (proprie iniziali) 
+1. In **Selezionare la frequenza** scegliere **Un percorso monouso con un gruppo di destinatari** statico.
 
-    - **Data e ora di inizio**: immettere la data odierna 
+1. Impostare la **data** di inizio su **Data** di domani.
 
-    - **Data e ora di fine**: un mese da oggi
+1. Selezionare il pulsante **Crea**.
 
-    - **Fuso orario**: selezionare il fuso orario locale
+1. Selezionare il **pulsante Aggiungi un'azione** .
 
-8. Sulla barra dei comandi, seleziona **Salva** per salvare il lavoro fatto finora.
+1. Dal menu visualizzato selezionare **Posta elettronica**.
 
-9. Il percorso è ora pronto per l'esecuzione. Per avviare il percorso, pubblicalo selezionando **Passa allo stato live** sulla barra dei comandi.
+1. Nel pannello Proprietà posta elettronica a destra configurare come segue:
 
+    - **Selezionare l'indirizzo di posta elettronica:** Posta elettronica 
+
+    - **Invia a:** Posta elettronica
+
+1. Il percorso è ora pronto per l'esecuzione. Per avviare il percorso, pubblicalo selezionando **Passa allo stato live** sulla barra dei comandi.
