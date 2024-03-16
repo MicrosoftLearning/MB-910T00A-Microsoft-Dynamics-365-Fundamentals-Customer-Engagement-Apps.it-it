@@ -45,24 +45,23 @@ In questo esercizio gli studenti acquisiranno familiarità su come accedere ed e
 10.  Verrà visualizzato il pop-up del selettore **App**, selezionare **Hub servizio clienti** per passare all'applicazione **Hub servizio clienti**. Notare che l'**Hub servizio clienti** ha diverse aree disponibili nel menu **Cambia area**.
 
 11. Per ritornare all'app **Hub vendite**, selezionare il testo **Hub servizio clienti** nella parte superiore che apre il pop-up del selettore **App**. Selezionare **Hub vendite**.
-In alternativa, è possibile accedere alle Applicazioni aziendali dal portale di Office. 
 
-12. In un Web browser accedere a [https://www.office.com/apps](https://www.office.com/apps). Verranno visualizzate tutte le applicazioni a cui si ha accesso.
+In alternativa, è possibile accedere alle applicazioni aziendali dal portale di Microsoft 365.
+
+12. In un Web browser accedere a [https://www.microsoft365.com/apps](https://www.microsoft365.com/apps). Verranno visualizzate tutte le applicazioni a cui si ha accesso.
 
 13. Selezionare la scheda **App aziendali** per limitare le applicazioni visualizzate solo alle applicazioni aziendali di Dynamics 365.
 
-14. Per ridurre il numero di applicazioni visualizzate, fare clic nel campo Cerca nella schermata superiore.
+14. Selezionare l'app **Sales Hub** per aprirla.
 
-15. Digitare il testo **Hub vendite** e selezionare l'app **Hub vendite** per aprirla.
+15. In un'app sono presenti aree diverse che è possibile usare a seconda di ciò che si vuole fare. L'applicazione Hub delle vendite, ad esempio, contiene impostazioni amministrative diverse.
 
-16. In un'app sono presenti aree diverse che è possibile usare a seconda di ciò che si vuole fare. L'applicazione Hub delle vendite, ad esempio, contiene impostazioni amministrative diverse.
+16. Nell'angolo in basso a sinistra della schermata selezionare il testo **Vendite** e nell'elenco visualizzato selezionare **Impostazioni app**. In questa parte dell'applicazione è possibile apportare modifiche amministrative.
 
-17. Nell'angolo in basso a sinistra della schermata selezionare il testo **Vendite** e nell'elenco visualizzato selezionare **Impostazioni app**. In questa parte dell'applicazione è possibile apportare modifiche amministrative.
+17. Selezionare nuovamente il selettore Area e da **Impostazioni app** riportarlo su **Vendite**.
 
-18. Selezionare nuovamente il selettore Area e da **Impostazioni app** riportarlo su **Vendite**.
+18. Per passare dall'app Vendite a un'altra app, ad esempio Hub del servizio clienti, selezionare il testo **Hub delle vendite** nell'angolo in alto a sinistra della schermata, accanto al testo Dynamics 365.
 
-19. Per passare dall'app Vendite a un'altra app, ad esempio Hub del servizio clienti, selezionare il testo **Hub delle vendite** nell'angolo in alto a sinistra della schermata, accanto al testo Dynamics 365.
+19. Verrà visualizzata la schermata App. Selezionare **Hub del servizio clienti** per passare all'applicazione Hub del servizio clienti.
 
-20. Verrà visualizzata la schermata App. Selezionare **Hub del servizio clienti** per passare all'applicazione Hub del servizio clienti.
-
-21. Selezionare il testo **Hub servizio clienti** nella parte superiore per tornare all'app **Hub vendite**.
+20. Selezionare il testo **Hub servizio clienti** nella parte superiore per tornare all'app **Hub vendite**.
