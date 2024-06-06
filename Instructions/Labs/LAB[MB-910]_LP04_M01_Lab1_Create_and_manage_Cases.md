@@ -44,7 +44,7 @@ Percorso di apprendimento 4: Modulo 1: esplorare Dynamics 365 Customer Service
 
 12. Selezionare la **X** nella schermata **Ricerca** per continuare a lavorare. 
 
-13. **Nella sequenza temporale** selezionare l'attività **chiamata Telefono** creata in precedenza. Selezionare **Chiudi attività** per completare l'attività. 
+13. Nella **sequenza temporale** selezionare l'attività **Chiamata telefonica** creata in precedenza. Selezionare **Chiudi attività** per completare l'attività. 
 
 14. Nella schermata **Chiudi chiamata telefonica**, selezionare il pulsante **Chiudi chiamata telefonica**. 
 

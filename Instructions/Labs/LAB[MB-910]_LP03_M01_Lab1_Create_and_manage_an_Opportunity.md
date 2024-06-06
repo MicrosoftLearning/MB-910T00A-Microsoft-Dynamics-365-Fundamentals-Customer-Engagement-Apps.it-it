@@ -51,7 +51,7 @@ Durante questo esercizio, verrà creato manualmente un lead per Jane Anderson. J
 
     - **CAP:** 58102
 
-5. Selezionare il **pulsante Salva** per salvare il lead e lasciarlo aperto.
+5. Selezionare il pulsante **Salva** per salvare il record e lasciarlo aperto.
 
 6. Nel processo di vendita **Da lead a opportunità** selezionare la fase **Qualifica**.
 
