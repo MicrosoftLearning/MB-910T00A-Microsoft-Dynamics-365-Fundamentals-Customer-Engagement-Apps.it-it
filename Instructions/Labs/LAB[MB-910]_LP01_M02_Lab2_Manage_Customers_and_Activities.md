@@ -12,7 +12,7 @@ Percorso di apprendimento 2 - Modulo 2: Descrivere le attività condivise e le o
 
 ## Obiettivi
 
-In questo esercizio si lavorerà con record comuni usati da tutte le app di coinvolgimento dei clienti di prima parte. 
+In questo esercizio si utilizzeranno record comuni impiegati da tutte le app Customer Engagement proprietarie. 
 
 ## Configurazione del lab
 
@@ -90,9 +90,9 @@ In questo esercizio si utilizzeranno record comuni sfruttati da tutte le app di 
 
     - **Oggetto:** riunione con Jackson (proprie iniziali)
 
-    - **Ora di inizio:** oggi alle 14:00
+    - **Ora di inizio:** Oggi alle 16:00
 
-    - **Ora di fine:** oggi alle 14:30
+    - **Ora di fine:** Oggi alle 16:30
 
 1. Seleziona il pulsante **Salva e chiudi**.
 
@@ -100,7 +100,7 @@ In questo esercizio si utilizzeranno record comuni sfruttati da tutte le app di 
 
 1. Fare clic per selezionare l'**Appuntamento** e visualizzare i dettagli al riguardo.
 
-1. Selezionare il **collegamento Apri record** .
+1. Selezionare il collegamento **Apri record**.
 
 1. Con il record dell'appuntamento aperto, dalla **Barra dei comandi**, selezionare il pulsante **Contrassegna come completato** per terminare l'appuntamento.
 
